@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Twin Cities Real Estate Video Blog with Mark Callender
+description: Our mission at Callender Home Team is to be your best resource for Twin Cities real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Callender Home Team, your professional Twin Cities Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,43 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Mark Callender
   title:
   license_number:
   about_markdown: |
+    Hello, my name is Mark Callender and I am a licensed real estate agent with RE/MAX Results. Because I have been helping families buy and sell their homes for more than 18 years, I am now helping their children to buy their first homes and their parents to downsize. No matter the direction you’re moving, my goal is to make the process as calm and enjoyable as it can be.
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+    I have always loved houses, architecture and people, so real estate is a natural career for me. In the 1990s, I worked as an appraiser, which is a tremendously handy skill to bring to real estate sales. Whether you’re selling or buying, my ability to create an accurate Comparative Market Analysis (CMA) ensures the best price possible for you.
+  brand: Callender Home Team
+  brokerage: RE/MAX Results
+  market: Twin Cities
+  address: 2677 Bunker Lake Blvd NW Andover MN 55304
+  phone: 612-961-9448
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: mark@markcallenderhomes.com
+  url: https://callenderhometeam.results.net
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://get.homebot.ai/?agentId=5c5203b04e6b460085ffbe51
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://callenderhometeam.results.net/real-estate/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Twin Cities Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://get.homebot.ai/?agentId=5c5203b04e6b460085ffbe51
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Twin Cities Home?"
+    CTA_text2: "Search the entire MLS for your Twin Cities home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://callenderhometeam.results.net/real-estate/
 
 lender:
   show_section: false
@@ -62,11 +64,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/markcallenderhomes/
   linkedin_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/CallenderHmTm
+  instagram_url: https://www.instagram.com/callenderhometeamrmr/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,19 +76,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Twin Cities Real Estate Podcast with Mark Callender'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Twin Cities Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Callender Home Team - your professional Twin Cities Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Twin Cities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Mark Callender'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 60
+  hero_text: Twin Cities Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -94,7 +96,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#12264C'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -104,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
@@ -112,7 +114,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#12264C'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
