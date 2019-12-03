@@ -30,7 +30,7 @@ client:
   url: https://callenderhometeam.results.net
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Join Homebot
   first_CTA_URL: https://get.homebot.ai/?agentId=5c5203b04e6b460085ffbe51
   second_CTA_text: Home Search
   second_CTA_URL: https://callenderhometeam.results.net/real-estate/
@@ -38,8 +38,8 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Twin Cities Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_text: "Get a monthly wealth snapshot of your home, understand when to refinance, see the wealth power of extra principal payment, set smart about wealth from short-term rentals, and more with Homebot."
+    CTA_link_text: "Join Homebot"
     CTA_url: https://get.homebot.ai/?agentId=5c5203b04e6b460085ffbe51
 
 second_sidebar_CTA:
