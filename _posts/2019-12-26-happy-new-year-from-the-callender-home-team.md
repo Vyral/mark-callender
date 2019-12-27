@@ -17,6 +17,6 @@ youtube_code: 1P2Z6TMGT-M
 
 {% include youtube.html %}
 
-A new decade is here, and we wanted to wish you and your family the best in 2020. Here’s our last full message for 2019.
+<div class="center">A new decade is here, and we wanted to wish you and your family the best in 2020. Here’s our last full message for 2019.</div>
 
 The new year has officially arrived. We hope you enjoy this wonderful time of year and you’ve made some fantastic memories throughout 2019 with your family and friends. Thank you for your continued support and referrals from this year and in years past. We are truly blessed to help you make your real estate dreams come true. To hear our full message, watch this short video.
