@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Zillow’s Zestimates Accurate?
-date:
+date: 2020-01-09 19:47:21
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -20,7 +20,8 @@ youtube_code: lTsm7kT-_yI
 ---
 
 {% include youtube.html %}
-<p style="text-align: center;"><em>Today I’m sharing my evaluation of two popular tools—one of them is misleading; the other is empowering. </em></p>
+
+*Today I’m sharing my evaluation of two popular tools—one of them is misleading; the other is empowering. *
 
 Today’s market is more complicated than ever before. iBuyer programs, guaranteed offers, and many other trends are starting to affect the market in unprecedented ways. We’re aiming to simplify the process for you from start to finish.&nbsp;
 
