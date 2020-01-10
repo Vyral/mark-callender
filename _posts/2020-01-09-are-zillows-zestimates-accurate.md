@@ -8,10 +8,10 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Today I’m sharing my evaluation of two popular tools—one of them is
-  misleading; the other is empowering.
+  misleading, the other is empowering.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Are+Zillows+Zestimates+Accurate_+(1).mp4
-pullquote: 'To be frank, I trust gas station sushi more than I trust Zillow'
+pullquote: 'To be frank, I trust gas station sushi more than I trust Zillow.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,12 +21,11 @@ youtube_code: lTsm7kT-_yI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m sharing my evaluation of two popular tools—one of them is misleading; the other is empowering.</em></p>
-
+*Today I’m sharing my evaluation of two popular tools—one of them is misleading, the other is empowering.*
 
 Today’s market is more complicated than ever before. iBuyer programs, guaranteed offers, and many other trends are starting to affect the market in unprecedented ways. We’re aiming to simplify the process for you from start to finish.&nbsp;
 
-For example, let’s quickly address ‘Zestimates,’ a popular tool provided my listings giant Zillow.&nbsp;
+For example, let’s quickly address ‘Zestimates,’ a popular tool provided by listings giant Zillow.&nbsp;
 
 Are Zestimates accurate? No, and here’s why: **Zillow has limited information about your home.** They collect information like the last sale price, tax data, county and city data (e.g. improvements made to the home), etc.&nbsp;
 
@@ -36,4 +35,4 @@ To be frank, I trust gas station sushi more than I trust Zillow\! So, instead of
 
 You’ll receive a monthly update on the value of your property emailed to you, though most Homebot users end up looking at the site an average of five times a month.&nbsp;
 
-If you go to the Homebot website to sign up, it will cost you a monthly fee. However, **I’m offering this service to you completely free of charge.** If you’re interested in signing up, or have any other real estate questions for me, feel free to give me a call or send me an email.&nbsp;
+If you go to the Homebot website to sign up, it will cost you a monthly fee. However, **I’m offering this service to you completely free of charge.** If you’re interested in signing up, or have any other real estate questions, feel free to give me a call or send me an email.&nbsp;
