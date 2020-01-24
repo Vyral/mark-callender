@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Searches Are Starting Earlier & Earlier—Are You Ready?
-date: 2020-01-24 22:24:46
+date: 2020-01-24 22:24:00
 tags:
   - Real Estate
 excerpt: >-
@@ -36,7 +36,7 @@ It means that **the busiest season in real estate has just begun.** Historically
 
 But don’t wait until then to get started on your real estate goals—there will be more competition in the spring. If you wait until then to list, it might put you behind the curve. **Now is the time to jump into the market; buyers are looking for homes right now, so there’s no reason to wait.**
 
-A senior economist at Realtor.com says that “\[...\] as shoppers modify their strategies for navigating in the housing market, it’s become more competitive due to rising prices and low inventory.”
+A senior economist at Realtor.com says that “\[…\] as shoppers modify their strategies for navigating in the housing market, it’s become more competitive due to rising prices and low inventory.”
 
 The search for homes is starting earlier and earlier; **buyers are tired of competing with so many people over one house**. They’re also tired of paying way above the list price and losing their negotiation power.
 
