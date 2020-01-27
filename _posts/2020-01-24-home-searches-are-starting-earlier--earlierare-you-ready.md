@@ -20,7 +20,7 @@ youtube_code: kU-PR-4lIeo
 
 {% include youtube.html %}
 
-*The spring market now starts in January. Are you ready? Here’s what you need to know.*
+<p style="text-align: center;"><em>The spring market now starts in January. Are you ready? Here’s what you need to know.</em></p>
 
 Today’s market is more complicated than ever before: There are iBuyer programs, guaranteed offers, and many other things that complicate decision-making. Today I’m here to simplify the process for you from start to finish.
 
