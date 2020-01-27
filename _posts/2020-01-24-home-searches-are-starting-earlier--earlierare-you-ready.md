@@ -20,10 +20,9 @@ youtube_code: kU-PR-4lIeo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The spring market now starts in January. Are you ready? Here’s what you need to know.</em></p>
+*The spring market now starts in January. Are you ready? Here’s what you need to know.*
 
-
-Today’s market is more complicated than ever before: there are iBuyer programs, guaranteed offers, and many other things that complicate decision-making in the market. Today I’m here to simplify the process for you from start to finish.
+Today’s market is more complicated than ever before: There are iBuyer programs, guaranteed offers, and many other things that complicate decision-making. Today I’m here to simplify the process for you from start to finish.
 
 Are you ready for the spring real estate market? I know that it’s only January, but in which month do you think that most people who are thinking of buying or selling homes will actually start their search?
 
@@ -31,11 +30,11 @@ If you’re like most people, you probably think that those searches happen in t
 
 What does this mean?
 
-It means that **the busiest season in real estate has just begun.** Historically, the most popular month for looking at online listings was April, with January lagging behind In 2019. However, the home shopping season in many of the largest markets now begins in January. The winter slowdown naturally reduced the number of homes available, and the supply will increase as we get closer to spring.
+It means that **the busiest season in real estate has just begun.** Historically, the most popular month for looking at online listings was April, with January lagging behind in 2019. However, the home shopping season in many of the largest markets now begins in January. The winter slowdown naturally reduced the number of homes available, and the supply will increase as we get closer to spring.
 
 {% include pullquote.html %}
 
-But don’t wait until then to get started on your real estate goals—there will be more competition in the spring. If you wait until then to list, it might put you behind the curve. **Now is the time to jump into the market; buyers are looking for homes right now, so there’s no reason to wait.**
+Don’t wait until then to get started on your real estate goals—there will be more competition in the spring. If you wait until then to list, it might put you behind the curve. **Now is the time to jump into the market; buyers are looking for homes right now, so there’s no reason to wait.**
 
 A senior economist at Realtor.com says that “\[…\] as shoppers modify their strategies for navigating in the housing market, it’s become more competitive due to rising prices and low inventory.”
 
