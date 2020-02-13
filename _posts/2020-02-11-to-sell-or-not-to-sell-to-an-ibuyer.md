@@ -21,7 +21,7 @@ youtube_code: Wb2pRTWze0U
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Selling to an iBuyer is convenient, but that convenience comes at a cost.</em></p>
+*Selling to an iBuyer is convenient, but that convenience comes at a cost.*
 
 What is an iBuyer? Should you sell your home to one instead of listing the traditional way?
 
@@ -37,9 +37,9 @@ Other companies will send someone to your home after you request an online offer
 
 On the other hand, you'll receive an all-cash offer quickly and not have to deal with any pesky mortgage lenders or homebuyers who get cold feet at the last minute (which does happen, but not if you have the right plan in place). These iBuyers are happy to buy homes in any reasonable condition without you needing to find an agent, clean and stage the home, etc. Some of the largest iBuyers include OfferPad, Redfin, OpenDoor, and Zillow Offers.&nbsp;
 
-In 2019, Zillow’s Consumer Housing Trends Report found that 95% of homesellers were stressed by some part of the sale process, and iBuyers like to emphasize that they take all of the stress off of your shoulders. To that, I say **if you hire the right agent who’ll be there from start to finish and make you their top priority, you’ll save thousands of dollars if you list with them.** It’s our job to take the stress off of your shoulders too, and we’re by your side all the way until closing.&nbsp;
+In 2019, Zillow’s Consumer Housing Trends Report found that 95% of home sellers were stressed by some part of the sale process, and iBuyers like to emphasize that they take all of the stress off of your shoulders. To that, I say **if you hire the right agent who’ll be there from start to finish and make you their top priority, you’ll save thousands of dollars if you list with them.** It’s our job to take the stress off of your shoulders too, and we’re by your side all the way until closing.&nbsp;
 
-Some homesellers share the same valid concerns, such as:
+Some home sellers share the same valid concerns, such as:
 
 * Not knowing when their home will sell
 * Whether they’ll sell for the right price
