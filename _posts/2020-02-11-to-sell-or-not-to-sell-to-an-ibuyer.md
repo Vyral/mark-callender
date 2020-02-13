@@ -21,7 +21,7 @@ youtube_code: Wb2pRTWze0U
 
 {% include youtube.html %}
 
-*Selling to an iBuyer is convenient, but that convenience comes at a cost.*
+<p style="text-align: center;"><em>Selling to an iBuyer is convenient, but that convenience comes at a cost.</em></p>
 
 What is an iBuyer? Should you sell your home to one instead of listing the traditional way?
 
