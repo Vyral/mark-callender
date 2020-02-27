@@ -19,7 +19,7 @@ youtube_code: VFL0P_mP5O0
 
 {% include youtube.html %}
 
-*Here’s what you should know before deciding to sell your home without the assistance of a Realtor.*
+<p style="text-align:center;"><p>Here’s what you should know before deciding to sell your home without the assistance of a Realtor.</em></p>
 
 Homes that are For Sale by Owner, or FSBOs, are commonly seen in seller’s markets, or whenever homeowners want to maximize their profits by not hiring an expert agent and paying commission.&nbsp;
 
