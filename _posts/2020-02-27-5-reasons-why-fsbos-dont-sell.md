@@ -1,24 +1,25 @@
 ---
 layout: post
 title: 5 Reasons Why FSBOS Don’t Sell
-date: 2020-02-27 18:01:05
+date: 2020-02-27 18:01:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Here’s what you should know before deciding to sell your home without the
   assistance of a Realtor.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/5+Reasons+Why+FSBOS+Dont+Sell.mp4
 pullquote: FSBOs are less likely to get the necessary online exposure.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/callendar-5-reasons-why-fsbos-dont-sell-youtube.jpg
 youtube_code: VFL0P_mP5O0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what you should know before deciding to sell your home without the assistance of a Realtor.</em></p>
+*Here’s what you should know before deciding to sell your home without the assistance of a Realtor.*
 
 Homes that are For Sale by Owner, or FSBOs, are commonly seen in seller’s markets, or whenever homeowners want to maximize their profits by not hiring an expert agent and paying commission.&nbsp;
 
