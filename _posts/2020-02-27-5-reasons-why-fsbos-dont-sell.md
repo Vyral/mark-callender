@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: FSBOs are less likely to get the necessary online exposure.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/callendar-5-reasons-why-fsbos-dont-sell-youtube.jpg
 youtube_code: VFL0P_mP5O0
 ---
