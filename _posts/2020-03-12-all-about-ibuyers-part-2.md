@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'All About iBuyers: Part 2'
-date:
+date: 2020-03-12 15:08:53
 tags:
   - Real Estate
 excerpt: >-
