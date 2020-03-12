@@ -19,7 +19,7 @@ youtube_code: mLidtGaBL5A
 
 {% include youtube.html %}
 
-Working with an iBuyer makes a lot of sense for some and no sense for others. Here’s how to determine whether it’s a good option for you.
+<p style="text-align: center;"><em>Working with an iBuyer makes a lot of sense for some and no sense for others. Here’s how to determine whether it’s a good option for you.</em></p>
 
 Today’s market is more complicated than ever before. There are guaranteed offer programs, iBuyer programs, and more that are complicating the market today. We’re here to simplify the process from start to finish on the Mark Callender Home Team.
 
