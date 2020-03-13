@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/callendar-pros-and-cons-of-working-with-an-ibuyer-youtube.jpg
-youtube_code: mLidtGaBL5A
+youtube_code: KOPYT5Nu1LM
 ---
 
 {% include youtube.html %}
@@ -43,4 +43,4 @@ Last time, [we began our discussion](https://callenderhometeamjournal.com/to-sel
 
 7:10- Wrapping things up and a future experiment I have in the works
 
-If you have questions about iBuyers or anything I discussed today, feel free to give me a call or send an email today. I look forward to hearing from you soon.
+If you have questions about iBuyers or anything I discussed today, feel free to give me a call or send an email. I look forward to hearing from you soon.
