@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What We’re Doing to Keep Buyers and Sellers Protected
-date:
+date: 2020-03-24 22:51:39
 tags:
   - Real Estate
 excerpt: >-
