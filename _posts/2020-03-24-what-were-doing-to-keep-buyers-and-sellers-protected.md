@@ -21,4 +21,4 @@ youtube_code: VDi6Pa5tpcE
 
 <p style="text-align: center;"><em>Agents across the industry are taking all precautions necessary to keep buyers and sellers safe.</em></p>
 
-These are uncertain times we live in, but we at the Callender Home Team are doing what we can to keep buyers and sellers safe so they can still achieve all of their real estate goals. Your safety is our top concern, and today’s message will update you on the adjustments our team and many others have made to keep the real estate industry open for business. To find out more, watch this short video.
+These are uncertain times we live in, but we at the Callender Home Team are doing what we can to keep buyers and sellers safe so they can still achieve all of their real estate goals. Your safety is our top concern, and today’s message will update you on the adjustments our team and many others have made to keep the real estate industry open for business. 
