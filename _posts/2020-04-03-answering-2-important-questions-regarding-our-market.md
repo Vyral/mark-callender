@@ -34,7 +34,7 @@ No. The coronavirus has caused massive global uncertainty, including a stock mar
 
 **2\. With all of this uncertainty, how do you make a confident and powerful decision regarding your real estate plans?**
 
-The NAR anticipates that, at the very least, the coronavirus could cause some people to put their home sales on hold. Honestly, I’m not seeing that happening in my area. While holding off on selling your home is an understandable approach, you need to know how it may cost you in the long run. Whether you’re buying or selling, it’s key to educate yourself so you can make a thoughtful, informed step toward your future.&nbsp;
+The National Association of Realtors anticipates that, at the very least, the coronavirus could cause some people to put their home sales on hold. Honestly, I’m not seeing that happening in my area. While holding off on selling your home is an understandable approach, you need to know how it may cost you in the long run. Whether you’re buying or selling, it’s key to educate yourself so you can make a thoughtful, informed step toward your future.&nbsp;
 
 For example, when there’s fear in the world, we see lower mortgage rates as investors flee the stock market for the safety of U.S. bonds. This connection should be considered when making real estate decisions. Mortgage interest rates seem to be on a roller coaster right now, but rest assured that we’re staying up to date on the latest market changes.&nbsp;
 
