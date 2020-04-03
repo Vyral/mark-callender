@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering 2 Important Questions Regarding Our Market
-date:
+date: 2020-04-03 15:20:15
 tags:
   - Market Update
   - Real Estate
