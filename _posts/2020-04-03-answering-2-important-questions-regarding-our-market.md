@@ -22,7 +22,7 @@ youtube_code: mrsRiTEQDK0
 
 {% include youtube.html %}
 
-These are uncertain times, but here are the answers to two important questions you may have regarding our market.
+<p style="text-align: center;"><em>These are uncertain times, but here are the answers to two important questions you may have regarding our market.</em></p>
 
 In light of everything that’s going on, it’s time to answer a couple of key questions friends and clients have been asking me:
 
