@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'We Aren’t Perfect, but We’re Always Your Best Shot'
-date:
+date: 2020-04-08 15:19:37
 tags:
   - Real Estate
 excerpt: >-
