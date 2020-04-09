@@ -21,7 +21,7 @@ youtube_code: tG5qK1j-5Hk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Don’t feel defeated by the fact that you can’t know or control every variable in an equation. Be empowered by what you **can** know and control.</em></p>
+<p style="text-align: center;"><em>Don’t feel defeated by the fact that you can’t know or control every variable in an equation. Be empowered by what you can know and control.</em></p>
 
 The stress and anxiety caused by the coronavirus has most people on edge regarding both their health and their financial situation. It’s of the utmost importance that we receive correct information and up-to-date protocols—even when it pertains to things we took for granted, like grocery shopping.&nbsp;
 
