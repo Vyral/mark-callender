@@ -21,11 +21,11 @@ youtube_code: tG5qK1j-5Hk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Don’t feel defeated by the fact that you can’t know or control every variable in an equation. Be empowered by what you *can* know and control.</em></p>
+<p style="text-align: center;"><em>Don’t feel defeated by the fact that you can’t know or control every variable in an equation. Be empowered by what you **can** know and control.</em></p>
 
 The stress and anxiety caused by the coronavirus has most people on edge regarding both their health and their financial situation. It’s of the utmost importance that we receive correct information and up-to-date protocols—even when it pertains to things we took for granted, like grocery shopping.&nbsp;
 
-If you’re looking to buy or sell a home, the same principle applies: Proper information gives you relief and comfort. The challenge, however, is that no one can give truly perfect advice. Thankfully, **experts can indeed give you the best advice*****possible*****.&nbsp;**
+If you’re looking to buy or sell a home, the same principle applies: Proper information gives you relief and comfort. The challenge, however, is that no one can give truly perfect advice. Thankfully, **experts can indeed give you the best advice possible**.&nbsp;
 
 Suppose you need an attorney. When you seek out an expert in the type of law required for your case, they won’t be able to tell you in your first meetings together how, exactly, your case will end or how the judge will rule. If they could, that would be perfect advice. Rather, the mark of a good attorney is that they discuss with you the most effective strategy you can employ. After explaining the options available and walking through the pros and cons of each one, they’ll leave the ultimate decision up to you. Their professional goal is to provide you with all of the facts you need to make smart decisions.&nbsp;
 
