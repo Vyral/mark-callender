@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   Don’t believe all the bad news you hear—here are a few glimmers of hope buried
   under fear mongering headlines.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Whats+REALLY+Going+to+Happen+to+Our+Economy+This+Year_+(1).mp4
 pullquote: The economy will bounce back nicely come the second half of the year.
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,6 +17,7 @@ youtube_code:
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>Don’t believe all the bad news you hear—here are a few glimmers of hope buried under fear mongering headlines.</em></p>
 
 Don’t get spooked by negative-sounding headlines that are cropping up in the media regarding the coronavirus’s impact on the economy.
 
