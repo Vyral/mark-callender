@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Don’t believe all the bad news you hear—here are a few glimmers of hope buried
-  under fear mongering headlines.
+  under fearmongering headlines.
 enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Whats+REALLY+Going+to+Happen+to+Our+Economy+This+Year_+(1).mp4
 pullquote: The economy will bounce back nicely come the second half of the year.
 enclosure_type: video/mp4
