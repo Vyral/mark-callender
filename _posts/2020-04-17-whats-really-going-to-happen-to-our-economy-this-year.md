@@ -17,7 +17,7 @@ youtube_code: qgQ7r3bPoVA
 ---
 
 {% include youtube.html %}
-<p style="text-align: center;"><em>Don’t believe all the bad news you hear—here are a few glimmers of hope buried under fear mongering headlines.</em></p>
+<p style="text-align: center;"><em>Don’t believe all the bad news you hear—here are a few glimmers of hope buried under fearmongering headlines.</em></p>
 
 Don’t get spooked by negative-sounding headlines that are cropping up in the media regarding the coronavirus’s impact on the economy.
 
