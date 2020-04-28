@@ -17,7 +17,7 @@ youtube_code: CMa3FVRbOcs
 
 {% include youtube.html %}
 
-Here’s a quick rundown of everything Homebot can do for you.&nbsp;
+<p style="text-align: center;"><em>Here’s a quick rundown of everything Homebot can do for you.</em></p>
 
 With the advent of the coronavirus outbreak and all the resulting stay-at-home orders, today’s market is more complicated than ever, and buying and selling have encountered a new range of challenges. The good news is that my team and I are still ready and able to carry out transactions using virtual technology and sanitizing measures to keep our clients safe.&nbsp;
 
