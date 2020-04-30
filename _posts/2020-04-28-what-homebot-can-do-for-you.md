@@ -19,7 +19,7 @@ youtube_code: CMa3FVRbOcs
 
 <p style="text-align: center;"><em>Here’s a quick rundown of everything Homebot can do for you.</em></p>
 
-With the advent of the coronavirus outbreak and all the resulting stay-at-home orders, today’s market is more complicated than ever, and buying and selling have encountered a new range of challenges. The good news is that my team and I are still ready and able to carry out transactions using virtual technology and sanitizing measures to keep our clients safe.&nbsp;
+With the advent of the coronavirus outbreak and all the resulting stay-at-home orders, today’s market is more complicated than ever, and buyers and sellers have encountered a new range of challenges. The good news is that my team and I are still ready and able to carry out transactions using virtual technology and sanitizing measures to keep our clients safe.&nbsp;
 
 Speaking of tools to help, today I’d like to discuss a highly recommended home valuation program that will help us help you: Homebot.&nbsp;
 
