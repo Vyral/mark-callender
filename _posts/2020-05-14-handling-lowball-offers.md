@@ -6,13 +6,13 @@ tags:
 excerpt: >-
   It’s easy to get upset if you receive a lowball offer on your home. I’m
   offering suggestions on how to handle this situation.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Handling+Lowball+Offers.mp4
 pullquote: Don’t let your anger get the best of you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: _OPntXu1qV0
 ---
 
 {% include youtube.html %}
