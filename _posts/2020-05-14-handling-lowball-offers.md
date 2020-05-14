@@ -17,7 +17,7 @@ youtube_code: _OPntXu1qV0
 
 {% include youtube.html %}
 
-*It’s easy to get upset if you receive a lowball offer on your home. I’m offering suggestions on how to handle this situation. *
+<p style="text-align: center;"><em>>It’s easy to get upset if you receive a lowball offer on your home. I’m offering suggestions on how to handle this situation.</em></p>
 
 If someone writes you a lowball offer for your home, how should you handle it? **Lowball offers in this market are becoming rarer,** if you receive one, your house is probably overpriced; we’re in a seller’s market right now.&nbsp;
 
