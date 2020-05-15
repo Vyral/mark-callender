@@ -17,9 +17,9 @@ youtube_code: _OPntXu1qV0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>>It’s easy to get upset if you receive a lowball offer on your home. I’m offering suggestions on how to handle this situation.</em></p>
+<p style="text-align: center;"><em>It’s easy to get upset if you receive a lowball offer on your home. I’m offering suggestions on how to handle this situation.</em></p>
 
-If someone writes you a lowball offer for your home, how should you handle it? **Lowball offers in this market are becoming rarer,** if you receive one, your house is probably overpriced; we’re in a seller’s market right now.&nbsp;
+If someone writes you a lowball offer for your home, how should you handle it? **Lowball offers in this market are becoming rarer.** If you receive one, your house is probably overpriced; we’re in a seller’s market right now.&nbsp;
 
 Receiving a lowball offer can be hurtful, disappointing, disheartening, and maybe even offensive. Real estate agents know all the negative yet understandable things you want us to pass on to the buyers who sent such a disrespectful offer. It’s common for both sellers and their agents to get so wrapped up in their righteous indignation that they refuse all future communication from those buyers. However, the only winner in that situation is the seller’s pride, which has a monetary value of exactly zero. Don’t let your anger get the best of you.
 
