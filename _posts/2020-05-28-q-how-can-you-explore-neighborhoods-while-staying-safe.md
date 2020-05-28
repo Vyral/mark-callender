@@ -5,7 +5,7 @@ date: 2020-05-28 20:12:19
 tags:
   - Real Estate
 excerpt: Here’s how to learn more about neighborhoods that pique your interest.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Q-+How+Can+You+Explore+Neighborhoods+While+Staying+Safe_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
