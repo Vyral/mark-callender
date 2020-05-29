@@ -17,7 +17,7 @@ youtube_code: Das3H67MH_Q
 
 {% include youtube.html %}
 
-*Here’s how to learn more about neighborhoods that pique your interest.*
+<p style="text-align: center;"><em>Here’s how to learn more about neighborhoods that pique your interest.</em></p>
 
 For those of you who are considering a move in 2020, don’t let COVID-19 discourage you from exploring the areas of town that interest you most—it can be done safely. If you want to know whether a particular neighborhood is well-suited for you and your family’s needs, there are eight things you can do right now:&nbsp;
 
