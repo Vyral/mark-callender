@@ -19,7 +19,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-Not only does a pre-approval letter communicate that you’re a serious buyer, it also accelerates the buying process. Here’s how.&nbsp;
+ <p style="text-align: center;"><em>
+Not only does a pre-approval letter communicate that you’re a serious buyer, it also accelerates the buying process. Here’s how.</em></p>
 
 Our market is hot, and buyers find themselves in a highly competitive arena. You have to be ready to put your best foot forward when the time comes. I’m sharing three compelling reasons to get a pre-approval letter now, even if you don’t intend to buy until later this year. One major reason is that having one communicates to the seller that you're serious and active in the market.&nbsp;
 
