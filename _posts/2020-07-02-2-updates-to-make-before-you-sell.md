@@ -20,7 +20,7 @@ youtube_code: Zi-LRbO6NLY
 
 {% include youtube.html %}
 
-*I’m sharing the two most essential home upgrades to make to prepare your home for sale.*
+ <p style="text-align: center;"><em>I’m sharing the two most essential home upgrades to make to prepare your home for sale.</em></p>
 
 What are the most important updates to make to your home before you sell? Preparing your house properly will help achieve a quicker closing and net you more money. I highly recommend doing two things:
 
