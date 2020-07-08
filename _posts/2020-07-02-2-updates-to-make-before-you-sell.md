@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 2 Updates to Make Before You Sell
-date: 2020-07-02 20:19:19
+date: 2020-07-02 20:19:00
 tags:
 excerpt: >-
   I’m sharing the two most essential home upgrades to make to prepare your home
   for sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/2+Updates+to+Make+Before+You+Sell.mp4
 pullquote: >-
   Replacing carpet or vinyl can be a little expensive, but the return on
   investment is often 100%.
