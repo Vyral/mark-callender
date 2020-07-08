@@ -13,14 +13,14 @@ pullquote: >-
   investment is often 100%.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/mark-callender---march-2020---1---youtube.jpg
 youtube_code: Zi-LRbO6NLY
 ---
 
 {% include youtube.html %}
- <p style="text-align: center;"><em>I’m sharing the two most essential home upgrades to make to prepare your home for sale.</em></p>
 
+*I’m sharing the two most essential home upgrades to make to prepare your home for sale.*
 
 What are the most important updates to make to your home before you sell? Preparing your house properly will help achieve a quicker closing and net you more money. I highly recommend doing two things:
 
