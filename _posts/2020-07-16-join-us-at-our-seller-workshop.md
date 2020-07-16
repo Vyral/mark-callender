@@ -1,19 +1,24 @@
 ---
 layout: post
 title: Join Us at Our Seller Workshop
-date: 2020-07-16 16:48:47
+date: 2020-07-16 16:48:00
 tags:
-excerpt:
+  - Home Seller Tips
+excerpt: >-
+  Our home seller workshop will teach you everything you need to know about
+  selling your home
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/seller-workshop-promo-email.jpg
 youtube_code: 1aA2QFKNJx4
 ---
 
 {% include youtube.html %}
+
+Our home seller workshop will teach you everything you need to know about selling your home.
 
 Are you thinking about selling your home here in the Twin Cities?
 
