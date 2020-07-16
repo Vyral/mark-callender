@@ -18,7 +18,7 @@ youtube_code: 1aA2QFKNJx4
 
 {% include youtube.html %}
 
-Our home seller workshop will teach you everything you need to know about selling your home.
+<p style="text-align:center;"><em>Our home seller workshop will teach you everything you need to know about selling your home.</em></p>
 
 Are you thinking about selling your home here in the Twin Cities?
 
