@@ -20,7 +20,7 @@ youtube_code: MMSVuNbGfts
 
 {% include youtube.html %}
 
-<p style="text-align:center;><em>There are three important questions all buyers must ask before making their purchase.</em></p>
+<p style="text-align:center;"><em>There are three important questions all buyers must ask before making their purchase.</em></p>
 
 If you’re planning on purchasing a home, you’re probably getting a lot of advice from friends and family. While they may have your best interests at heart, they may not be fully aware of your needs and the state of the real estate market.&nbsp;
 
