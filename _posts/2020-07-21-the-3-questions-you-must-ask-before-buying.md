@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   There are three important questions all buyers must ask before making their
   purchase.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/The+3+Questions+You+Must+Ask+Before+Buying.mp4
 pullquote: >-
   Only you and your family will know for certain whether now’s the right time to
   purchase.
