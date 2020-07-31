@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Choose Our Team?'
-date: 2020-07-30 20:16:51
+date: 2020-07-30 20:16:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -9,11 +9,11 @@ tags:
   - Market Update
 excerpt: >-
   Today I’m sharing why you should choose to work with the Callender Home Team,
-  either as a client or if you’re an agent looking for a great place to work.
-  We’re a one-stop shop for real estate transactions. We’ve separated ourselves
-  from the common mega-team where you sometimes don’t even know who you’re
-  working with. We’ll be there with you from the first day until you close. To
-  learn more about our team, watch this short video.
+  either as a client or as an agent looking for a great place to work. We’re a
+  one-stop shop for real estate transactions. We’ve separated ourselves from the
+  common mega-team where you sometimes don’t even know who you’re working with.
+  We’ll be there with you from the first day until you close. To learn more
+  about our team, watch this short video.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Were+Your+One-Stop+Real+Estate+Shop.mp4
 pullquote:
