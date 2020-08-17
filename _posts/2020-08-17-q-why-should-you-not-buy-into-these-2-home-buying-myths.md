@@ -17,7 +17,8 @@ youtube_code: hZ6ZOd9mb78
 
 {% include youtube.html %}
 
-There are two prominent home buying myths you shouldn’t believe.&nbsp;
+ <p style="text-align: center;"><em>
+There are two prominent home buying myths you shouldn’t believe.</em></p>
 
 The 2020 Millennial Homebuyer Report shows that the millennial generation isn’t any different than previous generations when it comes to homeownership goals. Not only do the majority of millennials want to own a home, but according to the report, 84% of them consider homeownership a vital part of the American dream.&nbsp;
 
