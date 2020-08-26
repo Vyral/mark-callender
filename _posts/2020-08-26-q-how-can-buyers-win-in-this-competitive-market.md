@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can Buyers Win in This Competitive Market?'
-date:
+date: 2020-08-26 15:25:08
 tags:
   - Home Buyer Tips
 excerpt: 'To win in this market, these are the things you need to be doing.'
