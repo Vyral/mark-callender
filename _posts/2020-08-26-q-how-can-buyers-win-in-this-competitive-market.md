@@ -19,7 +19,7 @@ youtube_code: ZYiwDSfesaM
 
 *To win in this market, these are the things you need to be doing.*
 
-Right now, most agents are talking about guaranteed offers, home preparation tips, etc., and while those are all important things to know about, one key aspect is getting left out of the conversation: buyer strategies.
+Right now, most agents are talking about guaranteed offers, home preparation tips, etc., and while those are all important things to know about, one key aspect is sometimes getting left out of the conversation: buyer strategies.
 
 In the last month, I was able to help a homebuyer win out against 16 other offers. **Here are some strategies that can increase your odds of winning in this competitive market:**
 
