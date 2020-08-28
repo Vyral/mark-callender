@@ -25,11 +25,11 @@ In the last month, I was able to help a homebuyer win out against 16 other offer
 
 <p style="margin-left:10%; margin-right:10%;"><b>1.</b> Educate your buyers and set expectations before you look at properties.
 
-<p style="margin-left:10%; margin-right:10%;"><b>2.<b/> Have a conversation with the listing agent about terms and price.
+<p style="margin-left:10%; margin-right:10%;"><b>2.</b> Have a conversation with the listing agent about terms and price.
 
 <p style="margin-left:10%; margin-right:10%;"><b>3.</b> Consider an appraisal bridge.&nbsp;
 
-<p style="margin-left:10%; margin-right:10%;"><b>4.<b/> Have your loan officer call the listing agent.
+<p style="margin-left:10%; margin-right:10%;"><b>4.</b> Have your loan officer call the listing agent.
 
 <p style="margin-left:10%; margin-right:10%;"><b>5.</b> DON’T write love letters about the home. It can turn some buyers off and create potential legal issues.
 
