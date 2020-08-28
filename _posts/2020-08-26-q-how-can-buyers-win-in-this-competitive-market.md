@@ -23,17 +23,17 @@ Right now, most agents are talking about guaranteed offers, home preparation tip
 
 In the last month, I was able to help a homebuyer win out against 16 other offers. **Here are some strategies that can increase your odds of winning in this competitive market:**
 
-**1\.** Educate your buyers and set expectations before you look at properties.
+<p style="margin-left:10%; margin-right:10%;">**1\.** Educate your buyers and set expectations before you look at properties.
 
-**2\.** Have a conversation with the listing agent about terms and price.
+<p style="margin-left:10%; margin-right:10%;">**2\.** Have a conversation with the listing agent about terms and price.
 
-**3\.** Consider an appraisal bridge.&nbsp;
+<p style="margin-left:10%; margin-right:10%;">**3\.** Consider an appraisal bridge.&nbsp;
 
-**4\.** Have your loan officer call the listing agent.
+<p style="margin-left:10%; margin-right:10%;">**4\.** Have your loan officer call the listing agent.
 
-**5\.** DON’T write love letters about the home. It can turn some buyers off and create potential legal issues.
+<p style="margin-left:10%; margin-right:10%;">**5\.** DON’T write love letters about the home. It can turn some buyers off and create potential legal issues.
 
-**6\.** Put your best offer in right away. If you have any questions for me about helping buyers in this market or the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+<p style="margin-left:10%; margin-right:10%;">**6\.** Put your best offer in right away. If you have any questions for me about helping buyers in this market or the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
 
 If you have any questions for me about helping buyers in this market or the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
 
