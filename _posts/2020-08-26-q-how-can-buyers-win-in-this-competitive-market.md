@@ -17,7 +17,7 @@ youtube_code: ZYiwDSfesaM
 
 {% include youtube.html %}
 
-*To win in this market, these are the things you need to be doing.*
+<p style="text-align: center;"><em>To win in this market, these are the things you need to be doing.</em></p>
 
 Right now, most agents are talking about guaranteed offers, home preparation tips, etc., and while those are all important things to know about, one key aspect is sometimes getting left out of the conversation: buyer strategies.
 
