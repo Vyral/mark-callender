@@ -1,6 +1,9 @@
 ---
 layout: post
-title: 'Q: How Can Buyers Win in This Competitive Market?'
+title: >-
+  Q: How Can Buyers Win in This Competitive
+  Market?https://callenderhometeamjournal.com/q-how-can-buyers-win-in-this-competitive-market.htmlQ:
+  What’s the Key to Being Competitive in This Market
 date: 2020-08-26 15:25:00
 tags:
   - Home Buyer Tips
@@ -17,7 +20,7 @@ youtube_code: ZYiwDSfesaM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To win in this market, these are the things you need to be doing.</em></p>
+*To win in this market, these are the things you need to be doing.*
 
 Right now, most agents are talking about guaranteed offers, home preparation tips, etc., and while those are all important things to know about, one key aspect is sometimes getting left out of the conversation: buyer strategies.
 
