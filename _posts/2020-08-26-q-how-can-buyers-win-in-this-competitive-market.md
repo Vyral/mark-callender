@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What’s the Key to Being Competitive in This Market'
+title: 'Q: How Can Buyers Win in This Competitive Market?'
 date: 2020-08-26 15:25:00
 tags:
   - Home Buyer Tips
