@@ -16,7 +16,7 @@ youtube_code: bqQdAZtFUQg
 
 {% include youtube.html %}
 
-The right agent is out there if you know where to look.
+<p style="text-align: center;"><em>The right agent is out there if you know where to look.</em></p>
 
 There is no such thing as a perfect real estate agent, but given today’s information, it can be really confusing to find the right fit. **An agent who can make sense of this rapidly changing housing market and navigate it effectively will help you unlock the key to buying or selling a home.**&nbsp;
 
