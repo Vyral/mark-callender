@@ -3,6 +3,8 @@ layout: post
 title: 'Q: What Does the “Right Agent” Look Like?'
 date: 2020-09-10 18:37:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: The right agent is out there if you know where to look.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Q-+What+Does+the+Right+Agent+Look+Like_.mp4
