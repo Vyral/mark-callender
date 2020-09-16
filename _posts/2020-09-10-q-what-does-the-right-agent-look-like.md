@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does the “Right Agent” Look Like?'
-date: 2020-09-10 18:37:04
+date: 2020-09-10 18:37:00
 tags:
 excerpt: The right agent is out there if you know where to look.
 enclosure: >-
@@ -16,9 +16,9 @@ youtube_code: bqQdAZtFUQg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The right agent is out there if you know where to look.</em></p>
+*The right agent is out there if you know where to look.*
 
-There is no such thing as a perfect real estate agent, but given today’s information, it can be really confusing to find the right fit. **An agent who can make sense of this rapidly changing housing market and navigate it effectively will help you unlock the key to buying or selling a home.**&nbsp;
+There is no such thing as a perfect real estate agent, but given today’s environment, it can be really confusing to find the right fit. **An agent who can make sense of this rapidly changing housing market and navigate it effectively will help you unlock the key to buying or selling a home.**&nbsp;
 
 There’s a lot that goes into every transaction. Hiring an agent who has a finger on the pulse of the market will make your buying or selling experience much easier. How do you identify this type of agent, though? Here are a few tips.
 
@@ -26,6 +26,6 @@ There’s a lot that goes into every transaction. Hiring an agent who has a fing
 
 **First, check them out on social media.** What are they posting on Facebook or Instagram? Are they using their platforms to provide relevant information or are they just posting memes or recipes? The best agents are dedicated to educating the consumer. What an agent is posting online will help you determine who best suits your needs.
 
-**My motto has always been to take care of my clients first, and the money will follow.** I’ve had many clients become friends and I’m happy to have crossed paths with every single one.&nbsp;
+**My motto has always been to take care of my clients first, and the money will follow.** I’ve had many clients become friends, and I’m happy to have crossed paths with every single one.&nbsp;
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
