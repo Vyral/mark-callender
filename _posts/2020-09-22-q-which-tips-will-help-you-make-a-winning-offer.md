@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which Tips Will Help You Make a Winning Offer?'
-date: 2020-09-22 19:33:31
+date: 2020-09-22 19:33:00
 tags:
 excerpt: These five tips will help you craft a better offer than your competitors.
 enclosure:
@@ -17,13 +17,13 @@ youtube_code: N59_0Kchn7g
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These five tips will help you craft a better offer than your competitors.</em></p>
+*These five tips will help you craft a better offer than your competitors.*
 
 As a buyer, how do you make your offer stand out against the competition in our hot seller’s market? Here are five key tips to remember:
 
 **1\. Make an earnest money deposit that’s higher than normal.** In the Twin Cities area, these deposits are usually 1% to 3% of the home’s purchase price. Making a higher deposit shows the seller you’re serious about wanting their home.
 
-**2\. Show the seller you’re qualified to buy.** Most buyers have a pre-qualification letter, but I recommend getting a pre-approval letter from your lender that states that you’re pre-approved for a loan and have undergone some of the underwriting process. A good way to do this is by having your loan officer call the lender on your behalf.
+**2\. Show the seller you’re qualified to buy.** Most buyers have a pre-qualification letter, but I recommend getting a pre-approval letter from your lender that states that you’re pre-approved for a loan and have undergone some of the underwriting process. A good way to do this is by having your loan officer call the seller on your behalf.
 
 {% include pullquote.html %}
 
