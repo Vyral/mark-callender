@@ -17,7 +17,7 @@ youtube_code: mOZ8ihPw30Y
 
 {% include youtube.html %}
 
-*These five tips will help you craft a better offer than your competitors.*
+<p style="text-align: center;"><em>These five tips will help you craft a better offer than your competitors.</em></p>
 
 As a buyer, how do you make your offer stand out against the competition in our hot seller’s market? Here are five key tips to remember:
 
