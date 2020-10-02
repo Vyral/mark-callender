@@ -4,7 +4,8 @@ title: 'Q: Which Tips Will Help You Make a Winning Offer?'
 date: 2020-09-22 19:33:00
 tags:
 excerpt: These five tips will help you craft a better offer than your competitors.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Q-+Which+Tips+Will+Help+You+Make+a+Winning+Offer_.mp4
 pullquote: >-
   Give it your best shot right off the bat so you have no regrets if you don’t
   win the home.
@@ -17,7 +18,7 @@ youtube_code: mOZ8ihPw30Y
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These five tips will help you craft a better offer than your competitors.</em></p>
+*These five tips will help you craft a better offer than your competitors.*
 
 As a buyer, how do you make your offer stand out against the competition in our hot seller’s market? Here are five key tips to remember:
 
