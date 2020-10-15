@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Do You Need to Know About Forbearance?'
-date: 2020-10-09 20:37:38
+date: 2020-10-09 20:37:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0aACBpd2H2Q
+youtube_code: Lv8ORq4hUbE
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you absolutely need to know about mortgage forbearance.</em></p>
+*Here’s what you absolutely need to know about mortgage forbearance.*
 
 Many people are applying for mortgage forbearance amid the pandemic. All over the world, the pandemic continues to dictate every facet of people’s lives. According to MarketWatch, the requests for mortgage forbearance have increased by almost 2,000% nationwide. This is because the CARES Act demands that service providers offer forbearance to homeowners with federally backed mortgages.
 
