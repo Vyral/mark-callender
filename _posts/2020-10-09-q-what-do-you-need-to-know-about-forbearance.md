@@ -17,7 +17,7 @@ youtube_code: Lv8ORq4hUbE
 
 {% include youtube.html %}
 
-*Here’s what you absolutely need to know about mortgage forbearance.*
+<p style="text-align: center;"><em>Here’s what you absolutely need to know about mortgage forbearance.</em></p>
 
 Many people are applying for mortgage forbearance amid the pandemic. All over the world, the pandemic continues to dictate every facet of people’s lives. According to MarketWatch, the requests for mortgage forbearance have increased by almost 2,000% nationwide. This is because the CARES Act demands that service providers offer forbearance to homeowners with federally backed mortgages.
 
