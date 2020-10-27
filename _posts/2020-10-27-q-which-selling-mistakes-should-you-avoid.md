@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: Which Selling Mistakes Should You Avoid?'
-date: 2020-10-27 14:03:28
+date: 2020-10-27 14:03:00
 tags:
+  - Home Seller Tips
 excerpt: Here is a list of the top seven mistakes you need to avoid when selling.
 enclosure:
 pullquote:
