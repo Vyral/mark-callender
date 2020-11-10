@@ -15,7 +15,7 @@ youtube_code: ESCoEy9NIrU
 
 {% include youtube.html %}
 
-Here’s how to get your hands on a free, delicious pie for Thanksgiving.
+<p style="text-align: center;"><em>Here’s how to get your hands on a free, delicious pie for Thanksgiving.</em></p>
 
 Any way you slice it, we are incredibly thankful for your business and referrals, which continue to allow us to do what we do best. To say thanks, **we want to provide a dessert for your family’s Thanksgiving meal** this year. We’re teaming up with Hy-Vee to get you a free, delicious pie, and it’s really simple to get yours. All you have to do is send us an email with your name and address, and we will send you a certificate that you can use for a free pie at any Hy-Vee store. We need your response by November 20 because the coupon is only good for a limited time.&nbsp;
 
