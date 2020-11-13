@@ -5,7 +5,8 @@ date: 2020-10-27 14:03:00
 tags:
   - Home Seller Tips
 excerpt: Here is a list of the top seven mistakes you need to avoid when selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Q+Which+Selling+Mistakes+Should+You+Avoid.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 3-8_X4-c5ew
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here is a list of the top seven mistakes you need to avoid when selling.</em></p>
+*Here is a list of the top seven mistakes you need to avoid when selling.*
 
 If you’re planning to list your home soon, there are seven critical mistakes that you must avoid if you want to sell quickly and for top dollar:
 
