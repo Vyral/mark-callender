@@ -16,7 +16,7 @@ youtube_code: AyI51bFoODs
 
 {% include youtube.html %}
 
-Is it time to move to a single-story home?
+<p style="text-align: center;"><em>Is it time to move to a single-story home?</em></p>
 
 {% include pullquote.html %}
 
