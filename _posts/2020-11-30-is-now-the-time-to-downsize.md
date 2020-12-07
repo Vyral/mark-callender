@@ -5,7 +5,7 @@ date: 2020-11-30 19:18:43
 tags:
   - Home Buyer Tips
 excerpt: Is it time to move to a single-story home?
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Is+Now+the+Time+to+Downsize_.mp4
 pullquote: There are a lot of benefits to moving into a one-level home.
 enclosure_type: video/mp4
 enclosure_time:
