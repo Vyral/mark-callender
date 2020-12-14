@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Happy Holidays from the Callender Home Team
-date: 2020-12-10 21:47:59
+title: A Heartfelt Thank You & Some Holiday Cheer 
+date: 2020-12-14 21:47:59
 tags:
 excerpt: Here’s a special holiday message of appreciation just for you.
 enclosure:
