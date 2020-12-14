@@ -4,7 +4,7 @@ title: A Heartfelt Thank You & Some Holiday Cheer
 date: 2020-12-13 21:47:59
 tags:
 excerpt: Here’s a special holiday message of appreciation just for you.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/A+Heartfelt+Thank-You+%26+Some+Holiday+Cheer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
