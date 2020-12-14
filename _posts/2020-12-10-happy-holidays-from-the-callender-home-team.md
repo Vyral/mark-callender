@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Heartfelt Thank You & Some Holiday Cheer 
-date: 2020-12-14 21:47:59
+date: 2020-12-13 21:47:59
 tags:
 excerpt: Here’s a special holiday message of appreciation just for you.
 enclosure:
