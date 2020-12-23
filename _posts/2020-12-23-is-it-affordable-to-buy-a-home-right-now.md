@@ -28,5 +28,3 @@ Yes, **it’s still currently affordable to buy a house** compared to historical
 The main reason homes are still affordable today is the record-low mortgage rates. Freddie Mac announced that **the average rate for a 30-year fixed-rate loan at this time last year was 3.68%, but right now it’s 2.72%**. If you’re considering purchasing a house, look at the interest rates, they’re as low as they’ve ever been, and that will save you quite a bit of money. These days, the low interest rates balance out the rising home prices, but we need to keep an eye on them.&nbsp;
 
 If you have any questions about home affordability or real estate in general, call or email us. We would love to help you.
-
-{% include pullquote.html %}
