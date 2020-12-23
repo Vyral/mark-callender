@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Is It Affordable to Buy a Home Right Now?
+title: Is It Still Affordable to Buy a Home?
 date: 2020-12-23 22:22:00
 tags:
 excerpt: Is it affordable to buy a house right now? Let’s discuss this topic.
 enclosure:
-pullquote: '{% include pullquote.html %}'
+pullquote: >-
+  Whenever there’s a shortage of supply for an item that’s in high demand, its
+  price increases.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
