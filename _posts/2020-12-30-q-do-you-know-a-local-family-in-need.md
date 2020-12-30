@@ -16,9 +16,9 @@ youtube_code: sGXOcMWLTBo
 
 {% include youtube.html %}
 
-We’re teaming up with Hy-Vee to serve families in need; will you help?
+<p style="text-align:center;"><em>We’re teaming up with Hy-Vee to serve families in need; will you help?</em></p>
 
-Happy New Year\! I hope you’ve had a wonderful holiday season and are feeling energized as we start 2021. Today I want to discuss giving in the new year; so often, the spirit of giving seems to vanish from our priorities after Christmas. Now more than ever, with so many people struggling amid unprecedented challenges, we must remember that kindness isn’t seasonal. To keep gratitude and generosity in focus, **we’re asking that you reach out to us and nominate a family in need.** I’m teaming up with Hy-Vee once again to deliver a meal for eight to three families experiencing present hardships.&nbsp;
+Happy New Year! I hope you’ve had a wonderful holiday season and are feeling energized as we start 2021. Today I want to discuss giving in the new year; so often, the spirit of giving seems to vanish from our priorities after Christmas. Now more than ever, with so many people struggling amid unprecedented challenges, we must remember that kindness isn’t seasonal. To keep gratitude and generosity in focus, **we’re asking that you reach out to us and nominate a family in need.** I’m teaming up with Hy-Vee once again to deliver a meal for eight to three families experiencing present hardships.&nbsp;
 
 All you need to do is send me an email with your name and the name and contact information of the family you want to nominate. In no way, shape, or form will their information be used for anything other than simply notifying them that they’ve been selected. We can tell them that it was you who nominated them, or you can choose to remain completely anonymous.&nbsp;
 
