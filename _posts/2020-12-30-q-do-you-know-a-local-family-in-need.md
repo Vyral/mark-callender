@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Do You Know a Local Family in Need?'
+title: 'Do You Know a Local Family in Need?'
 date: 2021-1-05 09:00:32
 tags:
   - Real Estate
