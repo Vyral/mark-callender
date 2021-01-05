@@ -5,7 +5,7 @@ date: 2021-1-05 09:00:32
 tags:
   - Real Estate
 excerpt: We’re teaming up with Hy-Vee to serve families in need; will you help?
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Do+You+Know+a+Local+Family+in+Need_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
