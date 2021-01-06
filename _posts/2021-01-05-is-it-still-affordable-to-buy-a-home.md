@@ -18,9 +18,8 @@ youtube_code: /rSOPCPYUa00
 
 {% include youtube.html %}
 
-<center><em>Is it affordable to buy a house right now? Let&rsquo;s discuss this topic.</em></center>
+<p style="text-align: center;"><em>Is it affordable to buy a house right now? Let&rsquo;s discuss this topic.</em></p>
 
-<center>&nbsp;</center>
 
 **Housing inventory is at an all-time low**, and Realtor.com just reported that there are about 39% fewer houses currently for sale in the Twin Cities metro area compared to this time last year. Simultaneously, buyer demand is very strong. Whenever there’s a shortage of supply for an item that’s in high demand, its price increases, and that’s what’s happening with properties these days. Home values are surging, which is excellent news if you’re a seller, but if you’re planning to buy a home, it’s a bit less affordable.&nbsp;
 
