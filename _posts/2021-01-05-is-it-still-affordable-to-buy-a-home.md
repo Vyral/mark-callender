@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Still Affordable to Buy a Home?
-date: 2021-01-05 09:00:00
+date: 2021-01-06 09:00:00
 tags:
   - Home Buyer Tips
 excerpt: Is it affordable to buy a house right now? Let’s discuss this topic.
