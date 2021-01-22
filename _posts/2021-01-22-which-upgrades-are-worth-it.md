@@ -18,7 +18,7 @@ youtube_code: l9JpweVqVV8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Which home upgrades are worth the money and will get a great return?</em></p>
+*Which home upgrades are worth the money and will get a great return?*
 
 A few posts back, I mentioned that paint and flooring will get you the biggest return on your investment. Today I’ll share a few more tips that will ensure your home improvements will make money for you:
 
