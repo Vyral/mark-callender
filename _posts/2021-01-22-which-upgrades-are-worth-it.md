@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Upgrades Are Worth It?
+title: 4 Home Upgrades That Are Worth the Money
 date: 2021-01-22 09:00:00
 tags:
   - Home Seller Tips
