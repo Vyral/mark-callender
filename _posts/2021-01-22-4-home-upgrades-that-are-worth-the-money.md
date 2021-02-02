@@ -5,7 +5,8 @@ date: 2021-01-22 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Which home upgrades are worth the money and will get a great return?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/4+Home+Upgrades+That+Are+Worth+the+Money.mp4
 pullquote: >-
   Make sure that all your light bulbs match and shed a warm light that isn’t too
   bright.
