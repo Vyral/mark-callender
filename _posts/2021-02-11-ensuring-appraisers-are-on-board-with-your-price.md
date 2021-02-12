@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ensuring Appraisers Are Onboard With Your Price
+title: Ensuring Appraisers Are on Board With Your Price
 date: 2021-02-11 09:00:00
 tags:
   - Home Seller Tips
@@ -19,12 +19,11 @@ youtube_code: Bh29Zc-LWWo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why I have to “sell” your home twice in today’s market.</em></p>
-
+*Here’s why I have to “sell” your home twice in today’s market.*
 
 What do I mean when I say that I have to “sell your home twice?” Well, when we price and list a home for sale, our seller clients often think (understandably so) that we’re only trying to persuade buyers. In reality, we have come up with the right price for their property and then “sell” the appraiser and lender on that price. Of course, the appraiser isn’t actually buying the home, but they’re the person who will have to report back to the buyer’s lender that the home is at value. If the appraisal comes in too low, your top-dollar sale could be put in jeopardy.&nbsp;
 
-Of course, **our job is to help you sell your home for top dollar as quickly as possible and with the least amount of hassle involved.** However, it does you know good if we get you under contract with a buyer for $70,000 over asking price if we know that an appraiser would never let that fly. Therefore, we have to take more into consideration when pricing your home—we have to think like an appraiser. That means we have to look at the recent sales of nearby (or similarly located) homes that have comparable styles, conditions, and dates of construction.&nbsp;
+**Our job is to help you sell your home for top dollar as quickly as possible and with the least amount of hassle involved.** However, it does you no good if we get you under contract with a buyer for $70,000 over asking price if we know that an appraiser would never let that fly. Therefore, we have to take more into consideration when pricing your home—we have to think like an appraiser. That means we have to look at the recent sales of nearby (or similarly located) homes that have comparable styles, conditions, and dates of construction.&nbsp;
 
 {% include pullquote.html %}
 
