@@ -18,7 +18,7 @@ youtube_code: M2BvcfQy6lc
 
 {% include youtube.html %}
 
-Here are four tips for juggling buying and selling a home.
+<p style="text-align: center;"><em>Here are four tips for juggling buying and selling a home.</em></p>
 
 There are four key steps to juggling a home sale and a home purchase at the same time:
 
