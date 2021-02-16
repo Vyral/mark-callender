@@ -20,7 +20,7 @@ youtube_code: Bh29Zc-LWWo
 
 {% include youtube.html %}
 
-*Here’s why I have to “sell” your home twice in today’s market.*
+<p style="text-align: center;"><em>Here’s why I have to “sell” your home twice in today’s market.</em></p>
 
 What do I mean when I say that I have to “sell your home twice?” Well, when we price and list a home for sale, our seller clients often think (understandably so) that we’re only trying to persuade buyers. In reality, we have come up with the right price for their property and then “sell” the appraiser and lender on that price. Of course, the appraiser isn’t actually buying the home, but they’re the person who will have to report back to the buyer’s lender that the home is at value. If the appraisal comes in too low, your top-dollar sale could be put in jeopardy.&nbsp;
 
