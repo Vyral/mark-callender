@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Ensuring Appraisers Are on Board With Your Price
-date: 2021-02-11 09:00:00
+date: 2021-02-16 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here’s why I have to “sell” your home twice in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Ensuring+Appraisers+Are+On+Board+With+Your+Price.mp4
 pullquote: >-
   If the appraisal comes in too low, your top-dollar sale could be put in
   jeopardy.
@@ -19,7 +20,7 @@ youtube_code: Bh29Zc-LWWo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why I have to “sell” your home twice in today’s market.</em></p>
+*Here’s why I have to “sell” your home twice in today’s market.*
 
 What do I mean when I say that I have to “sell your home twice?” Well, when we price and list a home for sale, our seller clients often think (understandably so) that we’re only trying to persuade buyers. In reality, we have come up with the right price for their property and then “sell” the appraiser and lender on that price. Of course, the appraiser isn’t actually buying the home, but they’re the person who will have to report back to the buyer’s lender that the home is at value. If the appraisal comes in too low, your top-dollar sale could be put in jeopardy.&nbsp;
 
