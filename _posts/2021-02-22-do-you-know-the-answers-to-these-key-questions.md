@@ -17,7 +17,7 @@ youtube_code: uGS7zyUPVYM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Knowing the answers to these questions will help you be a better buyer.</em></p>
+*Knowing the answers to these questions will help you be a better buyer.*
 
 Here are the answers to the top two questions I’ve been asked recently from curious buyers:
 
@@ -33,4 +33,4 @@ Earnest money is a deposit (typically 1% to 3% of the purchase price) a buyer ma
 
 If you hire me to help you buy your next home, I’ll make sure that never happens. There are contingencies we can put on the property when you make an offer, and we can make sure your earnest money is protected if the deal falls apart.&nbsp;
 
-As always, if you have questions about this or any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
+If you have questions about this, another real estate topic, or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
