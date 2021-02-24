@@ -17,7 +17,7 @@ youtube_code: uGS7zyUPVYM
 
 {% include youtube.html %}
 
-*Knowing the answers to these questions will help you be a better buyer.*
+<p style="text-align: center;"><em>Knowing the answers to these questions will help you be a better buyer.</em></p>
 
 Here are the answers to the top two questions I’ve been asked recently from curious buyers:
 
