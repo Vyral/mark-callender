@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips for Buying and Selling Real Estate Simultaneously
-date: 2021-02-15 09:00:00
+date: 2021-03-02 09:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
