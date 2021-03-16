@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Why Are There So Few Homes for Sale?
-date: 2021-03-03 09:00:00
+date: 2021-03-16 09:00:00
 tags:
-excerpt: 'Why are there so few homes for sale right now? The reason is twofold.'
-enclosure:
-pullquote: >-
-  Rent is up to a level where a mortgage payment is more affordable.
+  - Real Estate
+  - Market Update
+excerpt: Why are there so few homes for sale right now? The reason is twofold.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Why+Are+There+So+Few+Homes+for+Sale_.mp4
+pullquote: Rent is up to a level where a mortgage payment is more affordable.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: ItH7u5qiVNQ
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Why are there so few homes for sale right now? The reason is twofold.</em></p>
+*Why are there so few homes for sale right now? The reason is twofold.*
 
 The big thing buyers are worried about is the supply of homes on the market. Where have they all gone? In short, they’ve all been bought, but the issues are really twofold. **Interest rates are super low right now,** which has been keeping demand strong.
 
