@@ -17,7 +17,7 @@ youtube_code: ItH7u5qiVNQ
 ---
 {% include youtube.html %}
 
-*Why are there so few homes for sale right now? The reason is twofold.*
+<p style="text-align: center;"><em>Why are there so few homes for sale right now? The reason is twofold.</em></p>
 
 The big thing buyers are worried about is the supply of homes on the market. Where have they all gone? In short, they’ve all been bought, but the issues are really twofold. **Interest rates are super low right now,** which has been keeping demand strong.
 
