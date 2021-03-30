@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Do You Know the Answers to These Key Questions?
-date: 2021-03-01 09:00:00
+date: 2021-03-30 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Knowing the answers to these questions will help you be a better buyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Do+You+Know+the+Answers+to+These+Key+Questions_.mp4
 pullquote: 95% of the time buyers don’t have to pay an agent to help them buy a home.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: q9z5rkMO04o
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Knowing the answers to these questions will help you be a better buyer.</em></p>
+*Knowing the answers to these questions will help you be a better buyer.*
 
 Here are the answers to the top two questions I’ve been asked recently from curious buyers:
 
