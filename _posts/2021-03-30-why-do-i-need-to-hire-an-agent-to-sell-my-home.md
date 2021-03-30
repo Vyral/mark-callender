@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/3-reasons-you-need-an-agent-to-sell-your-home-ss.jpg
 youtube_code: gGgk7WbdDx8
 ---
 {% include youtube.html %}
