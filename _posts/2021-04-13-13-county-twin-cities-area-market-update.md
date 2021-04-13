@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 13-County Twin Cities Area Market Update
-date: 2021-04-05 09:00:00
+date: 2021-04-13 09:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: Here are our current 13-county Twin Cities area real estate statistics.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/13-County+Twin+Cities+Area+Market+Update.mp4
 pullquote: Home values are increasing very quickly.
 enclosure_type: video/mp4
 enclosure_time:
