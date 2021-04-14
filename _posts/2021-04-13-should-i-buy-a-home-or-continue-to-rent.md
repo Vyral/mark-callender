@@ -28,6 +28,6 @@ According to CoreLogic:&nbsp;
 * The average equity gain of mortgaged homes in just the last year is $26,300. You won’t be able to find that kind of return anywhere else right now.
 * The average equity of mortgaged homes right now is greater than $200,000.
 * There was a 16.9% increase in total homeowner equity last year alone.&nbsp;
-* Total homeowner equity reached over $1.5 trillion dollars in the United States.
+* Total homeowner equity reached over $1.5 trillion in the United States.
 
 **These numbers are for the national market, and every local market is different.** If you want to get the stats for our local Minneapolis market or you have any questions about buying or selling a home, don’t hesitate to reach out. I would love to hear from you.
