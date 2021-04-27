@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Why Do I Need to Hire an Agent to Sell My Home?
-date: 2021-03-30 09:00:00
+date: 2021-04-27 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are three essential reasons to hire a professional when selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Why+Do+I+Need+to+Hire+an+Agent+to+Sell+My+Home_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
