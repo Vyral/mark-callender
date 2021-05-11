@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Should I Buy a Home or Continue to Rent?
-date: 2021-04-13 09:00:00
+date: 2021-05-11 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s why you’re better off buying than renting in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Should+I+Buy+a+Home+or+Continue+to+Rent_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
