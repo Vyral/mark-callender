@@ -20,11 +20,11 @@ youtube_code: utfYQJj0z4M
 
 Today we’re going to talk about buyer fatigue and buyer perseverance and how each is playing a role in today’s market.
 
-**As we all know, there are about half as many available homes for sale as there were last year.** According to the National Association of Realtors, there have only been about 5.1 million new construction homes put on the market in the past ten years. The decade prior saw 21 million new homes being built.
+**As we all know, there are about half as many available homes for sale as there were last year.** According to the National Association of Realtors, there have only been about 5.1 million new construction homes put on the market in the past 10 years. The decade prior saw 21 million new homes being built.
 
 {% include pullquote.html %}
 
-This has resulted in people not being able to move up into their dream home. **Developers and builders are really going to have to get these new developments going to get the market moving a little bit.** We’re at a bit of a standstill right now.
+This has resulted in people not being able to move up into their dream homes. **Developers and builders are really going to have to get these new developments going to get the market moving a little bit.** We’re at a bit of a standstill right now.
 
 There’s good news from the last few weeks to share for the frustrated buyers out there. I’ve had five buyer contracts turn into accepted offers over the last week. It hasn’t been an easy road, but with the knowledge that my team has, we’re able to overcome almost any obstacle.&nbsp;
 
