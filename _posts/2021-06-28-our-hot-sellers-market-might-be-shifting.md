@@ -30,4 +30,4 @@ Needless to say, many sellers have decided that now’s the time to list. We cou
 
 {% include pullquote.html %}
 
-If you’ve been thinking about selling or want to jump in before the market changes, feel free to reach out to me. I’d be happy to answer any questions you may have about selling in today’s market. Until then, I look forward to hearing from you soon.
+If you’ve been thinking about selling or want to jump in before the market changes, feel free to reach out to me. I’d be happy to answer any questions you may have about selling in today’s market. I look forward to hearing from you soon.
