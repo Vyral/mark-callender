@@ -28,8 +28,8 @@ When I’m asked this question, I often counter with a question of my own: “Wh
 
 Many people are finding out that they’re **not going to be moving back to their office spaces**; employers have learned that it can be less expensive to keep people working remotely. However, a lot of sellers are tired of working from their kitchen or dining room tables, so they’re looking for homes with office space. Other homeowners are seeking more space in general as they’re spending more time at home than perhaps ever before.
 
-Another reason that homeowners are looking to move is that they’re wanting to move to different locations. Since remote workers aren’t constrained as much by location for work, **they’re looking to be closer to nature and further away from crowded urban centers.**
+Another reason that homeowners are looking to move is that they’re wanting to move to different locations. Since remote workers aren’t constrained as much by location for work, they’re looking to be closer to nature and further away from crowded urban centers.
 
-As you can see, even though sellers are getting top-dollar prices for their homes in today’s market, their motivations to sell aren’t always driven by money.
+As you can see, even though sellers are getting top-dollar prices for their homes in today’s market, **their motivations to sell aren’t always driven by money.**
 
 If you have any questions about buying or selling a home in our current market, don’t hesitate to reach out to me. I’d be happy to have a one-on-one discussion with you.
