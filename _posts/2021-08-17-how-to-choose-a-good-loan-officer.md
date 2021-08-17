@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Choose a Good Loan Officer
-date: 2021-08-18 00:00:00
+date: 2021-08-17 00:00:00
 tags:
   - Real Estate
 excerpt: Here are three tips for finding the right loan officer for your purchase.
