@@ -22,12 +22,12 @@ I’ve had a couple of buyers recently who were unhappy with their loan officers
 
 With that in mind, **here are a few tips for how to choose the right loan officer:**
 
-**1\. Have a great agent.** If you have an excellent real estate agent you trust, they should ensure you’re in good shape with a loan officer before you look at homes. They’ll make sure you get qualified, are working with a good lender, and that they have all your documentation so no surprises pop up later.
+**1\. Have a great agent.** If you have an excellent real estate agent you trust, they should ensure you’re in good shape with a loan officer before you look at homes. They’ll make sure that you get qualified, that you are working with a good lender, and that they have all your documentation so no surprises pop up later.
 
 {% include pullquote.html %}
 
 **2\. A good loan officer will do a lot of research.** These lenders will ensure they have all the documentation they need, they’ll look through it, and often look through it again with their underwriter or loan processor to make sure they haven’t missed anything. This heads off many problems down the road.
 
-**3\. Find a local loan officer.** It’s crucial to find a loan officer both you and your agent trust who is local and can be reached easily not just during weekdays but maybe in the evenings and on weekends.&nbsp;
+**3\. Find a local loan officer.** It’s crucial to find a loan officer both you and your agent trust who is local and can be reached easily, not just during weekdays, but maybe in the evenings and on weekends.&nbsp;
 
 If you have any further questions about how to speak to a loan officer or how they need to help you with your purchase, please give me a call or send an email. I would love to be your real estate resource.
