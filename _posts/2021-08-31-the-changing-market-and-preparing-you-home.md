@@ -23,7 +23,7 @@ youtube_code: YNr_IuZ27Kg
 
 I brought in Mike Kraatz today, my buyer specialist, to talk about how the market is changing and what that means for both buyers and sellers. Right now, we’re seeing a lot of homes that are cluttered and overpriced. On top of that, there are a lot of price adjustments happening.
 
-It’s really important to get you home ready to go on the market and clean up the clutter. Mike has been showing buyers around homes where **they are immediately disappointed walking in the door.** If the home has a lot of clutter, the pictures were strongly edited, or the pictures were poorly taken in the first place, it’s hard for buyers to look past those issues and get excited about the home.
+It’s really important to get your home ready to go on the market and clean up the clutter. Mike has been showing buyers around homes where **they are immediately disappointed walking in the door.** If the home has a lot of clutter, the pictures were strongly edited, or the pictures were poorly taken in the first place, it’s hard for buyers to look past those issues and get excited about the home.
 
 {% include pullquote.html %}
 
@@ -31,6 +31,6 @@ Buyers are looking online nowadays, so when they go to see a home, **they typica
 
 So it’s really important to make sure your home is clean before the showings and to get it priced appropriately. **Mike is still seeing plenty of multiple-offer homes,** enough to frustrate lots of buyers, but we’re only seeing this on homes that aren’t cluttered or overpriced.
 
-Sellers can’t get away with these bad practices anymore because the market is shifting. As of today, we’ve seen 430 price changes on homes, which is pretty high. Our coming-soon, active, and pending listings used to be about equal a month and a half ago, but as of right now, the coming-soon and active listings sit at 973 each while the pending listings are down to 278. This tells us that our inventory is increasing, so now might be one of the last, best times to get onboard as a seller.
+Sellers can’t get away with these bad practices anymore because the market is shifting. As of today, we’ve seen 430 price changes on homes, which is pretty high. Our coming-soon, active, and pending listings used to be about equal a month and a half ago, but as of right now, the coming-soon and active listings sit at 973 each while the pending listings are down to 278. This tells us that our inventory is increasing, so now might be one of the last, best times to get on board as a seller.
 
-If you have any questions about selling or buying a home, feel free to give us a call. Mike is going to be handling the buyer’s side of things, but both of us would love to help you out.
+If you have any questions about selling or buying a home, feel free to give us a call. Mike is going to be handling the buyer’s side of things, but both of us would love to help you.
