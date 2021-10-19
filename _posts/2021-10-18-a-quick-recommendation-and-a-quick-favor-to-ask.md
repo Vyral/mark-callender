@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Quick Recommendation and a Quick Favor to Ask
+title: A Quick Recommendation and a Favor to Ask
 date: 2021-10-18 00:00:00
 tags:
     - Real Estate
@@ -19,9 +19,9 @@ youtube_code: '-LzTk47L3Q8'
 
 I have a recommendation for you today. **If you have a repair or need a handyman to provide a service in your home, I want you to call me first.** I’m not only a real estate agent. I’m also here to provide you with lifetime service on your home.&nbsp;
 
-I have a book that contains all of the trusted contractors that I’ve worked with over the years. I’ve personally worked with these people, and I trust their services and their prices.
+I have a book that contains all of my trusted contractors. I’ve personally worked with these people, and I trust their services and their prices.
 
-I’d be happy to send you my list today. **If you’d like a copy, just reach out via phone or email.** No matter what you need done in or around your home, I can help.
+I’d be happy to send you my list today. **If you’d like a copy, just reach out via phone or email.** No matter what you need to have done in or around your home, I can help.
 
 Finally, I have one request. My trusted plumber has recently retired, and I’m looking for another to add to my list. If you know of a local plumber who does great work, please reach out.
 
