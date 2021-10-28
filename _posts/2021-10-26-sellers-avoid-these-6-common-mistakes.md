@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mark-ss-yt.jpg
-youtube_code: GrPh8Sletr4
+youtube_alternate_image: /uploads/callender-ss-2021-yt.jpg
+youtube_code: HwzHbBKICAA
 ---
 {% include youtube.html %}
 
@@ -32,7 +32,7 @@ There are six common mistakes that I see sellers make all the time. These six ar
 
 **4\. Neglecting to declutter.** I always say: Store, put, or throw away anything larger than a basketball. We do a couple of walk-throughs before taking pictures to make sure the home is decluttered and depersonalized.
 
-**5\. Restricting access.** It’s easy to say that you’ll just require people to make appointments, but it doesn’t always work that way. The National Association of Realtors says that over 75% of agents and buyers who get denied an appointment request never come back to that home.&nbsp;
+**5\. Restricting access.** It’s easy to say that you’ll just require people to make appointments, but it doesn’t always work that way. The National Association of Realtors says that over 75% of agents and buyers who get denied an appointment request never come back to that home.
 
 **6\. Getting too emotional.** I know it’s personal, but you need to look at selling your home as a business decision.
 
