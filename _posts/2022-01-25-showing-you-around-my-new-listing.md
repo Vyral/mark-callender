@@ -5,7 +5,7 @@ date: 2022-01-25 00:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: I give you a tour of one of my new listings in Princeton, Minnesota.
+excerpt: Here's a tour of one of my new listings in Princeton, Minnesota.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: ToVW_YniNQ0
 
 {% include excerpt.html %}
 
-Today I’m bringing you up to Princeton, Minnesota, to show you one of my new listings. It’s a one-level, 1,800 square foot home with three beds and two baths. It sits on 10 acres of land with a detached two-car garage, a 40 by 80 outbuilding, and another garage in the back. This is a beautiful property, so I wanted to give you a look.
+Today I’m bringing you up to Princeton, Minnesota, to show you one of my new listings. It’s a one-level, 1,800 square foot home with three beds and two baths. It sits on 10 acres of land with a detached two-car garage, a 40-by-80 outbuilding, and another garage in the back. This is a beautiful property, so I wanted to give you a look.
 
 **You can watch the full tour above, or you can skip to each section using the timestamps provided below:&nbsp;**
 
