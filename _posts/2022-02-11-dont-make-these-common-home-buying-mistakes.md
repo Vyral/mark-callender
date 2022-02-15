@@ -14,13 +14,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mark-callender-ss-yt-5.jpg
-youtube_code: eA227_-JQ88
+youtube_code: PHZTomQ2IJs
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-This market is tough enough for buyers as it is; if you make common mistakes during the process, it will become even harder. For example, many people who buy and sell at the same time overvalue their previous home. They are emotionally attached to their old property, and this makes them think it’s worth more than it is. Then, they look at homes out of their price range and set themselves up for disappointment. I have four other common mistakes I want to go over today, so let’s get started:&nbsp;
+This market is tough enough for buyers as it is; if you make common mistakes during the process, it will become even harder. For example, many people who buy and sell at the same time overvalue their previous home. They are emotionally attached to their old property, and this makes them think it’s worth more than it is. Then, they look at homes out of their price range and set themselves up for disappointment. I have four common mistakes to cover today that you shouldn't make.
 
 First, whether you’re a first-time buyer or a seasoned veteran, I recommend you **don’t underbid on your dream home.** This is a seller’s market; if you give someone a lowball offer, they might not even bother sending a counteroffer.&nbsp;
 
