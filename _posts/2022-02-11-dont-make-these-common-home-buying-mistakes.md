@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Going through four common home-buying mistakes to avoid in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Don%E2%80%99t+Make+These+Common+Home-Buying+Mistakes.mp4
 pullquote: >-
   You’re never going to find everything you want in a home, so separate your
   wants from your needs.
