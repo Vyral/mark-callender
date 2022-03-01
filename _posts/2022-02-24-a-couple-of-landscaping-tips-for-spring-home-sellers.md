@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s some quick advice for preparing your home for sale this spring.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/A+Couple+of+Landscaping+Tips+for+Spring+Home+Sellers.mp4
 pullquote: Book your appointment now because companies are getting filled up.
 enclosure_type: video/mp4
 enclosure_time:
