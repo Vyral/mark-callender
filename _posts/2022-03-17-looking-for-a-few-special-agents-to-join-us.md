@@ -18,7 +18,7 @@ youtube_code: sKqFr2D2vsI
 
 {% include excerpt.html %}
 
-We might have a small team here at the Callendar Home Team, but we’re growing. Today I have some very exciting news to share: **We are hiring\!** **We’re currently looking for one or two new agents who want to join our mentorship program or a seasoned agent to join us as a full-time buyer’s agent.**
+We might have a small team here at the Callender Home Team, but we’re growing. Today I have some very exciting news to share: **We are hiring\!** **We’re currently looking for one or two new agents who want to join our mentorship program or a seasoned agent to join us as a full-time buyer’s agent.**
 
 If you’re thinking about getting into the business, I’d love to talk to you about it. It’s an exciting industry, and our motto has always been, “We take care of our clients first, and the money follows.”&nbsp;
 
