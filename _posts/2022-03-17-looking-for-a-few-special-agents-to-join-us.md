@@ -24,10 +24,8 @@ If you’re thinking about getting into the business, I’d love to talk to you 
 
 If you’re already an agent and you’re looking to up your production, I’d be happy to show you what we can offer.&nbsp;
 
-**Whether you're a new agent or a seasoned one, our brokerage has the best training in the market.** I also work with a personal coach that you’ll have access to as well. We will supply you with leads, help you grow, and work together to build a strong and lasting business.
+**Whether you're a new agent or a seasoned one, our brokerage has the best training in the market.** I work with a personal coach that you’ll have access to as well. We will supply you with leads, help you grow, and work together to build a strong and lasting business.
 
 {% include pullquote.html %}
 
-We build relationships that last, and we get a lot of repeat and referral business as a result. If you’re interested in getting into a business like this, please give us a call or send us an email to learn more about the opportunity.
-
-If you have any questions or any interest in joining us, don’t hesitate to reach out today. I look forward to hearing from you soon.
+We build relationships that last, and we get a lot of repeat and referral business as a result. If you’re interested in getting into a business like this, please give us a call or send us an email to learn more about the opportunity. If you have any questions or any interest in joining us, don’t hesitate to reach out today. We look forward to hearing from you soon.
