@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are a few ways you can make your buyers’ offers stand out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/How+To+Help+Your+Clients+Win+Multiple-Offer+Situations.mp4
 pullquote: >-
   Often, just by asking questions, you can stand out from the crowd and move to
   the top of your seller’s list.
