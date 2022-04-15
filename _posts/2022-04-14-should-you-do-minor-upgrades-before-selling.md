@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/minor-renovations-callender-yt.jpg
-youtube_code: YRESTnmP97M
+youtube_code: ot2L70YRYDA
 ---
 {% include youtube.html %}
 
@@ -23,9 +23,9 @@ youtube_code: YRESTnmP97M
 
 I recently went on five listing appointments, and one of the most frequently asked questions by sellers was “When I sell my home, what can I do to get the most value out of it without spending a ton of money?”
 
-**In answering that question, I tend to ask one of my own**\: “What kind of time do you have as a seller?” Homes are bought up very fast in today’s market. If you spend a month or two doing small renovations, you could be hurting yourself by keeping your home off the market. Right now is a killer time to list your home; home prices are going crazy, and buyers are offering sometimes tens of thousands over list price. It may just be best to list your home on the market as soon as possible.
+**In answering that question, I tend to ask one of my own**\: “What kind of time do you have as a seller?” Homes are bought up very fast in today’s market. If you spend a month or two doing small renovations, you could be hurting yourself by keeping your property off the market. Right now is a killer time to list your home; prices are going crazy, and buyers are offering sometimes tens of thousands over list price. It may just be best to list your home on the market as soon as possible.
 
-Part of the reason why prices have gone through the roof is that there simply aren’t that many homes available. To outdo their competitors, **many buyers may be willing to pick up your small renovations themselves** such as painting, flooring, new countertops, etc. If you take the time and money to do those renovations, you might end up with a result that buyers don’t even like, meaning it might have been better to just list the home without those projects.
+Part of the reason why prices have gone through the roof is that there simply aren’t that many homes available. To outdo their competitors,&nbsp;**many buyers may be willing to do small renovations themselves**&nbsp;when the home is theirs, such as painting, changing flooring, adding new countertops, etc. If you take the time and money to do those renovations, you might end up with a result that buyers don’t even like, meaning it might have been better to just list the home without those changes.
 
 {% include pullquote.html %}
 
