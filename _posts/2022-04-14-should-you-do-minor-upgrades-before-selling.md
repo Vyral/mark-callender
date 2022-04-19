@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Is it a good idea to make minor renovations before you list your home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Should+You+Do+Minor+Upgrades+Before+Selling_.mp4
 pullquote: >-
   If you spend a month or two doing small renovations, you could be hurting
   yourself by keeping your home off the market.
