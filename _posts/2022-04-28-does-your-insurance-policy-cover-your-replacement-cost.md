@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Your Insurance Policy Cover Your Replacement Cost?
+title: Does Your Policy Cover Replacement Costs?
 date: 2022-04-28 00:00:00
 tags:
   - Real Estate
@@ -21,4 +21,4 @@ Today I want to talk about how your insurance policy may be lagging behind the a
 
 Remember that there is a difference between market value and replacement cost. The replacement cost is what it would take to actually replace the structure on the land that you own. The market value is what somebody's willing to pay for the home, including the land and all the structures. With building material and appliance costs going up, your replacement cost is rising quickly.
 
-If you have any questions feel free to reach out to me by phone or email. I look forward to hearing from you.
+If you have any questions, feel free to reach out to me by phone or email. I look forward to hearing from you.
