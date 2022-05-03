@@ -5,7 +5,8 @@ date: 2022-04-28 00:00:00
 tags:
   - Real Estate
 excerpt: With rising material costs, your insurance may not be high enough.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/Does+Your+Policy+Cover+Replacement+Costs_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
