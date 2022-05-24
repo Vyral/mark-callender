@@ -17,9 +17,9 @@ youtube_code: I_yXBQepmKw
 
 {% include excerpt.html %}
 
-There’s a bit of confusion out there about how appraisals work, so I wanted to talk about them a bit today. A home appraisal is just a report that says how much the home is worth according to a licensed appraiser’s opinion. That appraiser is hired by your lender to evaluate the property you’re going to buy.
+There’s a bit of confusion out there about how appraisals work, so I wanted to talk about them a today. A home appraisal is just a report that says how much the home is worth according to a licensed appraiser’s opinion. That appraiser is hired by your lender to evaluate the property you’re going to buy.
 
-These appraisers collect four basic points of information. The first piece of information they’ll consider is **the square footage of the property** and compare it to homes of a similar size.&nbsp;
+These appraisers collect four basic points of information. The first piece of information they’ll consider is **the square footage of the property.** Then they'll compare it to homes of a similar size.&nbsp;
 
 They’ll also look at **the quality of the building materials.** For example, one house might have an expensive steel roof that will last forever, but another might have a three-tab shingle roof, which is very low-grade. The type of siding is another common consideration.
 
@@ -29,6 +29,6 @@ The third point of information they collect is **the home's current condition**.
 
 The last point of information is **what’s nearby.** Are there railroad tracks behind the house or a busy street out front? Is there a gas station down the street? These factors can sometimes confuse a borrower about why their home didn’t appraise as much as another home nearby.
 
-That sums up appraisals and what they look at. They are very different from inspections; inspections are something you order as the buyer. You can choose to skip the inspection, but you have to do the appraisal.&nbsp;
+Appraisals are very different from inspections; inspections are something you order as the buyer. You can choose to skip the inspection, but you have to do the appraisal.&nbsp;
 
 If you have any questions about appraisals or real estate in general, feel free to call or email me. I’d love to hear from you.
