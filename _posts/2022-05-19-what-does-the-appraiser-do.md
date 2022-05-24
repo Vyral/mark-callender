@@ -5,7 +5,8 @@ date: 2022-05-19 00:00:00
 tags:
   - Real Estate
 excerpt: What appraisals are, what they look at in a home, and why you need one.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/What+Does+the+Appraiser+Do_.mp4
 pullquote: If your lender ordered it, you have to have an appraisal.
 enclosure_type: video/mp4
 enclosure_time:
