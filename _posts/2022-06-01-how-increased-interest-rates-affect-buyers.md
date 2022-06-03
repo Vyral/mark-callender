@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/rising-interest-rates-callender-yt.jpg
-youtube_code: TcYxT1jVZKI
+youtube_code: tK5Wr9A1knE
 ---
 {% include youtube.html %}
 
