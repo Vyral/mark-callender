@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/market-shift-callender-yt.jpg
-youtube_code: g3xok40-1AI
+youtube_code: TlTNVfyFYrQ
 ---
 {% include youtube.html %}
 
@@ -26,8 +26,8 @@ Here’s the thing nervous buyers need to understand: Yes, interest rates are ri
 
 {% include pullquote.html %}
 
-I recently read [an article](https://www.keepingcurrentmatters.com/2022/06/16/home-price-deceleration-doesnt-mean-home-price-depreciation/) from Keeping Current Matters that discussed the difference between home price depreciation and deceleration, and I think it’s important for sellers to keep this distinction in mind. Depreciation occurs when home prices decrease, but deceleration is when home prices continue to appreciate—just at a slower pace. Home prices in our current market may be decelerating, but they’re still appreciating. Sellers likely won’t get tons of offers within hours of listing anymore, but there is still demand for homes.&nbsp;
+I recently read [an article](https://www.keepingcurrentmatters.com/2022/06/16/home-price-deceleration-doesnt-mean-home-price-depreciation/) from Keeping Current Matters that discussed the difference between home price depreciation and deceleration, and I think it’s important for sellers to keep this distinction in mind. Depreciation occurs when home prices decrease, but deceleration is when home prices continue to appreciate—just at a slower pace. Home prices in our current market may be decelerating, but they’re still appreciating. Sellers likely won’t get tons of offers within hours of listing anymore, but there is still demand for homes.
 
-If you put your home on the market and don’t get any offers in two weeks, don’t panic. **The market is simply becoming more balanced.** Just five or six years ago, as we were coming out of the 2008 housing crisis, homes sometimes took five or six months to sell.&nbsp;
+If you put your home on the market and don’t get any offers in two weeks, don’t panic. **The market is simply becoming more balanced.** Just five or six years ago, as we were coming out of the 2008 housing crisis, homes sometimes took five or six months to sell.
 
 If you have any questions about the market or are looking to buy or sell a home, please give me a call or send me an email. I’d love to help you.
