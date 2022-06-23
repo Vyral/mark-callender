@@ -44,7 +44,7 @@ client:
   url: https://callenderhometeam.com
 CTAs:
   first_CTA_text: Home Value
-  first_CTA_URL: https://callendar-home-value.paperform.co/
+  first_CTA_URL: https://callender-home-value.paperform.co/
   second_CTA_text: Home Search
   second_CTA_URL: https://callenderhometeam.results.net/real-estate/
 sidebar_CTA:
