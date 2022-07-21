@@ -10,7 +10,7 @@ pullquote: Don’t forget to stop by this amazing bakery.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/crown-bakery-callender-yt.jpg
 youtube_code: gD3EuAihsyw
 ---
 {% include youtube.html %}
@@ -23,7 +23,7 @@ There’s a great bakery in Anoka, Minnesota, that you might not know. It’s ca
 
 My business partner and I had been working at a bakery together, and we loved working with each other so much that we decided to run our own place.
 
-**What made you buy this bakery?&nbsp;**
+**What made you buy this bakery? **
 
 I worked here for about five years, and I loved every recipe they made here. I knew if I ever had the opportunity to buy it that I wouldn’t change anything. We’ve owned it for about a year and a half now.
 
