@@ -17,13 +17,13 @@ youtube_code: gD3EuAihsyw
 
 {% include excerpt.html %}
 
-There’s a great bakery in Anoka, Minnesota, that you might not know. It’s called Crown Bakery, and today I’ll interview the owner, Maddie McCormick, and learn what they’re all about.
+There’s a great bakery in Anoka, Minnesota, that you might not know about. It’s called Crown Bakery, and I interviewed the owner, Maddie McCormick, to learn what they’re all about.
 
 **Maddie, what made you decide to own a bakery?**
 
 My business partner and I had been working at a bakery together, and we loved working with each other so much that we decided to run our own place.
 
-**What made you buy this bakery? **
+**What made you buy this bakery?**
 
 I worked here for about five years, and I loved every recipe they made here. I knew if I ever had the opportunity to buy it that I wouldn’t change anything. We’ve owned it for about a year and a half now.
 
