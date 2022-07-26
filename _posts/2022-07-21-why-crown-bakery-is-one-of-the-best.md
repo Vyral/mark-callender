@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Why Crown Bakery Is One of the Best
+title: Why Krown Bakery Is One of the Best
 date: 2022-07-21 00:00:00
 tags:
   - Real Estate
-excerpt: What the owner of Crown Bakery has to say about her business.
+excerpt: What the owner of Krown Bakery has to say about her business.
 enclosure:
 pullquote: Don’t forget to stop by this amazing bakery.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: gD3EuAihsyw
 
 {% include excerpt.html %}
 
-There’s a great bakery in Anoka, Minnesota, that you might not know about. It’s called Crown Bakery, and I interviewed the owner, Maddie McCormick, to learn what they’re all about.
+There’s a great bakery in Anoka, Minnesota, that you might not know about. It’s called Krown Bakery, and I interviewed the owner, Maddie McCormick, to learn what they’re all about.
 
 **Maddie, what made you decide to own a bakery?**
 
