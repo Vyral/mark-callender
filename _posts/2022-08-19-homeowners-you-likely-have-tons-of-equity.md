@@ -22,6 +22,6 @@ Did you know that from June 2021 to June 2022, the average home appreciated by $
 
 This rapid increase in property values is great news for homeowners, but it has some wondering if we’re about to see a huge correction. Will your home decrease in value just as rapidly as it increased?
 
-It’s true that there have been a few price reductions in our area, but they have been minor and they’re a sign that our market is balancing out, not crashing. **The bottom line is that you likely have a ton of equity in your property.** The smart thing to do is reinvest it, and now might be a fantastic time to invest in real estate. A few clients of mine have done this recently and it has paid off greatly for them.&nbsp;
+It’s true that there have been a few price reductions in our area, but they have been minor, and they’re a sign that our market is normalizing, not crashing. **The bottom line is that you likely have a ton of equity in your property.** The smart thing to do is reinvest it, and now might be a fantastic time to invest in real estate. A few clients of mine have done this recently, and it has paid off greatly for them.&nbsp;
 
 If you have questions about today’s topic or anything else related to real estate, please call or email me. I am always willing to help\!
