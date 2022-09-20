@@ -23,3 +23,5 @@ Today I’m excited to talk about a tool I love: Homebot. **This is an applicati
 Homebot is geared specifically toward you and your home. It will give you equity reports every two weeks, show you what your home would rent for, and allow you to look at multiple properties, which is great for people with homes out of state. All of this is just the beginning.&nbsp;
 
 Remember that this is not an exact science. You can reach out to me anytime, and I’d love to give you an accurate listing price for your home. Call or email me; I look forward to hearing from you.&nbsp;
+
+![](/uploads/homebotflyer2-mark-page-1.jpg){: width="2550" height="3300"}
