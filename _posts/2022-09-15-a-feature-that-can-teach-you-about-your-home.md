@@ -24,4 +24,4 @@ Homebot is geared specifically toward you and your home. It will give you equity
 
 Remember that this is not an exact science. You can reach out to me anytime, and I’d love to give you an accurate listing price for your home. Call or email me; I look forward to hearing from you.&nbsp;
 
-![](/uploads/homebotflyer2-mark-page-1.jpg){: width="2550" height="3300"}
+![](/uploads/homebotflyer2-mark-page-1.jpg){: width="100%" height="100%"}
