@@ -24,4 +24,4 @@ What’s been going on this past month? Honestly, it’s good news. Most buyers 
 
 At 1:04 in the video, you can see the stats for our 13-County metro area. The average sales price has increased about 5% since 2021 to $432,456, but keep in mind that this is an average. This market shift started back in June or July, and values have still increased since then. The ratio of list to sales price has decreased by 2.4%. That means we aren’t getting as many offers over list price, but we are still seeing some.&nbsp;
 
-You can get a copy of these numbers at this link. If you have any questions, feel free to call or email me. I’d love to hear from you.
+You can get a copy of these numbers [at this link](https://callenderhometeamjournal.com/uploads/13-CountyTwinCitiesRegion.pdf). If you have any questions, feel free to call or email me. I’d love to hear from you.
