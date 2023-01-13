@@ -18,7 +18,7 @@ youtube_code: HxsfAIyyNro
 
 {% include excerpt.html %}
 
-Welcome to part two of my short series on seller tips. If you missed it, you can [check out part one here.](https://callenderhometeamjournal.com/have-a-hassle-free-home-sale.html) Today I’ll be sharing five more tips on how to sell your home quickly and for the most money possible:&nbsp;
+Welcome to part two of my short series on seller tips. If you missed it, you can <u><a target="_blank" rel="noopener" href="https://callenderhometeamjournal.com/have-a-hassle-free-home-sale.html">check out part one here.</a></u> Today I’ll be sharing five more tips on how to sell your home quickly and for the most money possible:&nbsp;
 
 **1\. Find a place to temporarily move your pets.** I know you love your pets, but you can’t guarantee your buyer will feel the same way. We usually alert the buyers if there's a pet in the home and if it doesn't work for them, we would have to take it from there. For example, it's always best to remove dogs. We don't know how your dog is going to react to somebody in the home without the owner there.
 
