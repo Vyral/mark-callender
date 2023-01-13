@@ -26,8 +26,6 @@ Welcome to part two of my short series on seller tips. If you missed it, you can
 
 **{% include pullquote.html %}**
 
-&nbsp;
-
 **3\. Right after the holidays is a great time to list.** During this time of year, most sellers are taking their homes off the market. This means there’s less competition for you. Whatever you do, don’t wait until March or April; by then, the market will be flooded with sellers.
 
 **4\. Don’t talk too much about your sale.** The truth is that everyone likes to talk about their home sale, either to their neighbors, friends, or family. You can mention that it's for sale and what your asking price is, but leave it there. The last thing you want is your buyer asking your neighbor about your home and having them spill sensitive information.
