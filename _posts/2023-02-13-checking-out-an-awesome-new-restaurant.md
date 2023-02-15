@@ -17,7 +17,7 @@ youtube_code: JEnD3szoiHE
 
 {% include excerpt.html %}
 
-Continuing my series on highlighting great local businesses, I am excited to feature Willy’s on the Water today! I was fortunate enough to get to talk to the owner, Korey Bannerman, about the restaurant and the awesome things coming up once the weather warms up.&nbsp;
+Continuing my series on highlighting great local businesses, I am excited to feature [Willy’s on the Water](https://www.willymccoys.com/){: target="_blank" rel="noopener"} today! I was fortunate enough to get to talk to the owner, Korey Bannerman, about the restaurant and the awesome things coming up once the weather warms up.&nbsp;
 
 First, Korey got started in the restaurant business when he was working in real estate. Now he owns eight restaurants, all of which have been a great success. Willy’s on the Water is his newest one, which opened up right before Thanksgiving.&nbsp;
 
