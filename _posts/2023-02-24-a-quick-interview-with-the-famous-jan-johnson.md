@@ -18,7 +18,7 @@ youtube_code: '-OhEDCIxGlo'
 
 {% include excerpt.html %}
 
-Today I’m pleased to be speaking with Jan Johnson, the owner of Jan Johnson Upholstery. I’ll ask her a few questions about her career, what she does, and how she helps her customers.&nbsp;
+Today I’m pleased to be speaking with Jan Johnson, the owner of [Jan Johnson Upholstery](https://www.jansupholstery.com/index.html){: target="_blank" rel="noopener"}. I’ll ask her a few questions about her career, what she does, and how she helps her customers.&nbsp;
 
 Jan’s been in the business since 1994 when she started out in Northeast Minneapolis. About four or five years ago, she moved her business to Ramsey, **and she’s loved the town ever since.** Jan got started by cleaning houses in her early 20’s, and she discovered that she loved working for herself. After doing some research, she decided to go into the upholstery business due to the problem solving and personal relationships required.&nbsp;
 
