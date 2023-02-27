@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Quick Interview with the Famous Jan Johnson
+title: A Quick Interview With the Famous Jan Johnson
 date: 2023-02-24 00:00:00
 tags:
   - Real Estate
