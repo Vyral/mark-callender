@@ -10,8 +10,8 @@ enclosure:
 pullquote: Many buyers are willing to pay above list price due to the low inventory.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/market-update-callender-yt-1.jpg
 youtube_code: Jsvz90e6_Qw
 ---
 {% include youtube.html %}
