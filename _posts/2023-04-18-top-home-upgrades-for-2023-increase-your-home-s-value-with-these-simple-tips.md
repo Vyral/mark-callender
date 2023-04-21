@@ -22,7 +22,7 @@ If you're planning to upgrade your home to increase its value, here are the top 
 
 **1\. Customized cabinets.** For your kitchen upgrade, consider customizing and replacing your cabinets for top dollar.
 
-**2\. Smart home technology.** Install a system for controlling lights, garage doors, and security systems.
+**2\. Smart home technology.** Install a system for controlling lights, garage doors, and security systems. [Here's a helpful article](https://hometechhacker.com/5-best-home-tech-upgrades-that-will-help-sell-your-home/){: target="_blank" rel="noopener"} on which smart home upgrades will help you sell your home.
 
 **3\. Garbage disposals.** In Minnesota, having a garbage disposal is expected, so consider adding or upgrading one in your kitchen.
 
