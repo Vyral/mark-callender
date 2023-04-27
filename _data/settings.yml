@@ -106,7 +106,7 @@ podcast:
     buyer
   author: Mark Callender
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/headshot-mark-300x300.png
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Callender Home Team Journal
