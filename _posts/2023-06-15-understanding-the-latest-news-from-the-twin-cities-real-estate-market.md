@@ -18,7 +18,7 @@ youtube_code: OIDn42lnLTw
 
 Today, I want to address the frequently asked question about the current state of the Twin Cities region market. Many clients have been concerned after hearing national news reports suggesting an increase in foreclosures. However, I want to assure you that **the foreclosure rate in our Twin Cities metro area remains very low.** Our market continues to be strong, characterized by a shortage of homes and rising prices. Higher interest rates have contributed to fewer listings, as people are choosing to stay in their current homes.
 
-Let's look at some recent statistics comparing April 2022 to April 2023. Please note that these figures are the most up-to-date, and we will have more statistics available soon. In April 2022, the average sale price in our 13-county metro area was $432,384. By April 2023, it had dropped by 0.9% to $428,667. These numbers debunk the national news reports predicting a significant drop in home prices, as we are currently experiencing less than a 1% decrease.
+Let's look at some [recent statistics](https://callenderhometeamjournal.com/img/13-CountyTwinCitiesRegion-&#40;4&#41;-&#40;1&#41;.pdf){: target="_blank" rel="noopener"} comparing April 2022 to April 2023. Please note that these figures are the most up-to-date, and we will have more statistics available soon. In April 2022, the average sale price in our 13-county metro area was $432,384. By April 2023, it had dropped by 0.9% to $428,667. These numbers debunk the national news reports predicting a significant drop in home prices, as we are currently experiencing less than a 1% decrease.
 
 **{% include pullquote.html %}**
 
