@@ -34,4 +34,4 @@ Roof replacement is the fourth update, which surprised me with its significant i
 
 The fifth update is a kitchen refresh, involving updates to finishes such as repainting cabinets, retaining some cabinets, installing granite or quartz countertops, and updating fixtures. The average cost for this update is $14,000 to $17,000, while the average value increase is $58,035. **It is worth noting that kitchen and bathroom updates are typically the most expensive but yield the highest average return on investment.**
 
-[Check out this link](https://trello.com/1/cards/649b566ae390772ed8b30c25/attachments/649b59b56c3e73743fa31677/download/Copy_of_Minneapolis_Listing_Toolkit_Presentation.pdf) if you want a visual guide explaining this information. If you have questions about this topic or anything else, please call or email me. I am always willing to help!
+[Check out this link](https://callenderhometeamjournal.com/Copy_of_Minneapolis_Listing_Toolkit_Presentation.pdf){: target="_blank" rel="noopener"} if you want a visual guide explaining this information. If you have questions about this topic or anything else, please call or email me. I am always willing to help!
