@@ -7,9 +7,9 @@ tags:
   - Home Seller Tips
   - Home Upgrades
   - Return on Interest
-excerpt: Here are the top five home improvement upgrades you need to know.
+excerpt: Sharing the top five home improvements that homeowners should consider.
 enclosure:
-pullquote: Flooring replacements are always a good idea.
+pullquote: Replacing your flooring offers one of the highest returns on investment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,9 +20,9 @@ youtube_code: Zxv489Sx7PM
 
 {% include excerpt.html %}
 
-What are the best home improvements you can make for a high return on investment? Today, I’ll share the five best upgrades you can make in the Twin Cities Metro area.&nbsp;
+What are the best home improvements you can make for a high return on investment? Today, I’m sharing the five best upgrades you can make in the Twin Cities Metro area.&nbsp;
 
-The first is flooring replacement, which we have discussed before. It offers one of the highest returns on investment. The average cost ranges from $3,500 to $13,500, depending on the home's size and the quality of the update. **On average, this update can increase your home's value by $21,000.**
+The first is replacing your flooring, which offers one of the highest returns on investment. The average cost ranges from $3,500 to $13,500, depending on the home's size and the quality of the update. **On average, this update can increase your home's value by $21,000.**
 
 The second update is landscaping, with an average cost between $1,000 and $1,500, and an average value increase of $31,140 to $43,140.
 
@@ -34,4 +34,4 @@ Roof replacement is the fourth update, which surprised me with its significant i
 
 The fifth update is a kitchen refresh, involving updates to finishes such as repainting cabinets, retaining some cabinets, installing granite or quartz countertops, and updating fixtures. The average cost for this update is $14,000 to $17,000, while the average value increase is $58,035. **It is worth noting that kitchen and bathroom updates are typically the most expensive but yield the highest average return on investment.**
 
-[Check out this link](https://callenderhometeamjournal.com/Copy_of_Minneapolis_Listing_Toolkit_Presentation.pdf){: target="_blank" rel="noopener"} if you want a visual guide explaining this information. If you have questions about this topic or anything else, please call or email me. I am always willing to help!
+**[Check out this link](https://callenderhometeamjournal.com/Copy_of_Minneapolis_Listing_Toolkit_Presentation.pdf){: target="_blank"}** if you want a visual guide explaining this information. If you have questions about this topic or anything else, please call or email me. I am always willing to help!
