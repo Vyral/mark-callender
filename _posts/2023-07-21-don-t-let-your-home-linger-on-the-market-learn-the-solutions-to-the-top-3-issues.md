@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/callender.jpg
+youtube_alternate_image: /uploads/mark-callender-template-1-3.jpg
 youtube_code: czuRHAi4okw
 ---
 {% include youtube.html %}
