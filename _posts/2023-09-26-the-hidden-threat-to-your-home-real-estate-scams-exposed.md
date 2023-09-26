@@ -34,4 +34,4 @@ I've received two such invoices from the same buyer last summer, one claiming to
 
 I investigated the address mentioned in one of these scam letters, 2801 Hennepin Avenue South in Minneapolis, and found that it houses around 35 different businesses, none of which are related to property records. There's a hair stylist and a Potbelly sandwich shop, among others.
 
-**Whether you are my client or not, if you encounter any similar situations or suspect a scam, please give me a call.** I'm here to assist, whether you're my client or not. Let's protect ourselves and others from falling victim to these scams.
+**Whether you are my client or not, if you encounter any similar situations or suspect a scam, please give me a call.** I'm here to assist. Let's protect ourselves and others from falling victim to these scams.
