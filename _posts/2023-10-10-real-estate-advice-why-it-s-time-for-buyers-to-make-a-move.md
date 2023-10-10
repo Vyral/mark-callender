@@ -32,8 +32,6 @@ Experts in the field predict that by the end of this year, interest rates will c
 
 **{% include pullquote.html %}**
 
-
-
 The dilemma here is that a shortage of buyers is causing stagnation in the market. Those who postpone their buying decisions until early 2024 will face stiff competition from fellow buyers, driving up home prices. We witnessed a similar scenario in 2020 and 2021, with buyers offering tens of thousands above list prices and providing guarantees to cover the difference if a property didn't appraise for the purchase amount.
 
 Our heartfelt advice to potential buyers is this: Don't wait. Seize the opportunity to purchase a home in the current market, and negotiate concessions on closing costs or interest rates with motivated sellers. They're ready to make deals. If you have any questions or need guidance, reach out to us at (612) 961-9448 or the contact information provided in the video. Your dream home might be waiting, but it's essential to act now to secure it.
