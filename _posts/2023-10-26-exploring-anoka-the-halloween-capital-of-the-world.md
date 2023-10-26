@@ -29,4 +29,6 @@ I'm currently stationed on Main Street, close to where the parade kicks off. As 
 
 **Anoka is not only known for its Halloween festivities but also for being a great place to live.** Since the challenging times of the Great Recession in 2008, people have flocked here to restore and rejuvenate the charming old homes. The city now thrives with an array of restaurants, bars, antique shops, and a vibrant community.
 
+To learn more about Anoka, **[check out this link.](https://anokahalloween.com/halloween-2023/)**
+
 I encourage you to immerse yourself in the Halloween spirit of the Halloween Capital. Get out there, have fun, and enjoy the unique atmosphere Anoka has to offer, and don’t hesitate to call or email me if you have any questions.
