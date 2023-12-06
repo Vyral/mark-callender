@@ -21,4 +21,4 @@ Today, I'm excited to spotlight the city of Anoka and its upcoming holiday celeb
 
 In addition to the tree lighting, the city has planned bonfires, delectable food offerings, and various other events that promise a delightful time for everyone. Although the festivities draw a crowd, the atmosphere is lively and enjoyable. Having personally attended the event, I can vouch for its festive spirit.
 
-For more details on this exciting celebration, feel free to call or email me. **You can also click here** to explore a comprehensive list of all the events scheduled. We look forward to hearing from you soon and hope you don't miss out on the festive fun!
+For more details on this exciting celebration, feel free to call or email me. We look forward to hearing from you soon and hope you don't miss out on the festive fun!
