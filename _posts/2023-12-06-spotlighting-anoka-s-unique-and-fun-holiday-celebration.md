@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mark-callender-template-10.jpg
-youtube_code: KyYfERwrDN0
+youtube_code: dEgjUNs4nL8
 ---
 {% include youtube.html %}
 
