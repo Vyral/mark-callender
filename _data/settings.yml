@@ -62,7 +62,7 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your Twin Cities home.
     CTA_link_text2: Search the MLS
     CTA_url2: https://callenderhometeam.results.net/real-estate/
-  - CTA_image_path2:
+  - CTA_image_path2: /uploads/Mark_Callender(1).png
     CTA_title2: The Top 10 Real Estate Agents in Minnesota for 2024
     CTA_text2: ''
     CTA_link_text2: Read More Here
