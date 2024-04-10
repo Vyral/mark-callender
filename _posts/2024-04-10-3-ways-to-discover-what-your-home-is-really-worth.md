@@ -31,4 +31,4 @@ But what if finding suitable comparables proves elusive? That's where things get
 
 So, before you commit to shelling out hundreds for an appraisal, why not reach out to me first? With my background in both appraisals and real estate, I can provide valuable insights into your property's worth. And if we determine that an appraisal is the way to go, I'll guide you through the process every step of the way.
 
-As a bonus, [here’s a link to a powerful valuation tool](https://callender-home-value.paperform.co/) that trumps the likes of Zillow. This tool not only offers an initial estimate of your home's value but also allows me to fine-tune it based on my in-depth market analysis.
+As a bonus, [**here’s a link to a powerful valuation tool**](https://callender-home-value.paperform.co/) that trumps the likes of Zillow. This tool not only offers an initial estimate of your home's value but also allows me to fine-tune it based on my in-depth market analysis.
