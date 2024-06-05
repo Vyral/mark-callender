@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/email-16.jpg
-youtube_code:
+youtube_code: camUPDxifMA
 ---
 {% include youtube.html %}
 
