@@ -24,4 +24,4 @@ When you walk into Oakwood Cafe, you'll be surprised by the colorful and fragran
 
 {% include pullquote.html %}
 
-If you want to know more about [**The Oakwood Cafe**](https://www.facebook.com/oakwoodcafeanoka/), visit their Facebook page. If you want a recommendation of some must-see destinations around the area, **feel free to call or message us at (612) 961-9448 or Mark@MarkCallenderHomes.com.**
+If you want to know more about [**<u>The Oakwood Cafe</u>**](https://www.facebook.com/oakwoodcafeanoka/), visit their Facebook page. If you want a recommendation of some must-see destinations around the area, **feel free to call or message us at (612) 961-9448 or Mark@MarkCallenderHomes.com.**
