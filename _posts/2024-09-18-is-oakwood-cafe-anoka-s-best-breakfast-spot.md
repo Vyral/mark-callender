@@ -16,7 +16,7 @@ youtube_code: MPS6QQx9okc
 
 {% include excerpt.html %}
 
-[The Oakwood Cafe](https://www.facebook.com/oakwoodcafeanoka/) was great when it opened, but it’s even better than I remember. It opened last year in the historic co-op building and offers a unique dining experience focusing on breakfast and lunch. Now, they have many new items for sale, including more selection of baked goods, breakfast sandwiches, and coffee.
+[**<u>The Oakwood Cafe</u>**](https://www.facebook.com/oakwoodcafeanoka/) was great when it opened, but it’s even better than I remember. It opened last year in the historic co-op building and offers a unique dining experience focusing on breakfast and lunch. Now, they have many new items for sale, including more selection of baked goods, breakfast sandwiches, and coffee.
 
 It has become my favorite breakfast spot in Anoka. I came here a few weeks ago and had an herb breakfast sandwich, which was one of the best breakfast sandwiches I’ve tasted in the neighborhood. Today, I stopped in for their herb sausage and a breakfast sandwich made with egg, cheddar cheese, and a fresh herb biscuit.
 
@@ -24,4 +24,4 @@ When you walk into Oakwood Cafe, you'll be surprised by the colorful and fragran
 
 {% include pullquote.html %}
 
-If you want to know more about [The Oakwood Cafe](https://www.facebook.com/oakwoodcafeanoka/), visit their Facebook page. If you want a recommendation of some must-see destinations around the area, **feel free to call or message us at (612) 961-9448 or Mark@MarkCallenderHomes.com.**
+If you want to know more about [**The Oakwood Cafe**](https://www.facebook.com/oakwoodcafeanoka/), visit their Facebook page. If you want a recommendation of some must-see destinations around the area, **feel free to call or message us at (612) 961-9448 or Mark@MarkCallenderHomes.com.**
