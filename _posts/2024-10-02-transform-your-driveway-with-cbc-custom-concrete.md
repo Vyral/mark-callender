@@ -16,7 +16,7 @@ youtube_code: 8a92f94rGzg
 
 {% include excerpt.html %}
 
-Do you need a concrete job done right? I recently had to have my driveway replaced, and I wanted to highlight the local contractor that did a great job of transforming it: [CBC Custom Concrete](https://www.cbccustomconcrete.com/). They are currently working on our driveway, and while the job is not yet complete, I can already see significant improvement.<br>
+Do you need a concrete job done right? I recently had to have my driveway replaced, and I wanted to highlight the local contractor that did a great job of transforming it: [CBC Custom Concrete](https://www.cbccustomconcrete.com/). They are currently working on our driveway, and while the job is not yet complete, I can already see significant improvement.
 
 CBC Custom Concrete in Twin Cities is a family-owned business owned by Charlie Cheslock. His company started in 2010 and is backed by 29 years of total experience in concrete flatwork. Their service includes aprons, patios, sidewalks, steps, garage flooring, and floating slabs. I highly recommend them if you want quality work to improve your driveway or your home’s curb appeal without breaking the bank.
 
