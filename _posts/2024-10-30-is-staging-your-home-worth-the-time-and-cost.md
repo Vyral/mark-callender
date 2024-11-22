@@ -20,13 +20,13 @@ youtube_code: EldCOsQ-KN0
 
 Thinking about selling your home? If so, have you considered staging it before listing? Today, I want to talk about why staging is so crucial and the different ways you can do it.
 
-**What are your options?** You can go for virtual staging, which is usually much less expensive, or you can opt for full-blown staging, where a professional comes into your home which can cost anywhere from $3,000 to $4,000. It's a significant investment, but it can really pay off.
+**What are your options?** You can go for virtual staging, which is usually much less expensive, or you can opt for full-blown staging, where a professional comes into your home which can cost anywhere from $3,000 to $4,000. It’s a significant investment, but it can really pay off.
 
 If you’re saving money, there’s a third option: hiring a stager who will use your existing furniture and decor. They’ll come in, remove some items, and restage your home to make it look fresh and appealing. The best results I’ve seen come from either virtual staging or having a stager use what you already have.
 
 *But what exactly are the benefits of staging?* Let me give you three benefits you don’t want to throw away.
 
-**1\. Helps potential buyers visualize how everything fits in your space.** One thing I often hear from people is that they think staging is a waste of time. They say, "Let's just get professional photos and call it a day." But I have to ask: have you ever walked into a new construction home where everything is beautifully staged? It looks fantastic, right?
+**1\. Helps potential buyers visualize how everything fits in your space.** One thing I often hear from people is that they think staging is a waste of time. They say, “Let’s just get professional photos and call it a day.” But I have to ask: have you ever walked into a new construction home where everything is beautifully staged? It looks fantastic, right?
 
 {% include pullquote.html %}
 
