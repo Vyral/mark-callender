@@ -22,7 +22,7 @@ As we look toward 2025, experts are forecasting a much more favorable market for
 
 **A better year for sellers**
 
-Experts predict that 2025 will be a better year overall for sellers than 2023 and 2024. While the market has been challenging recently, there’s good news ahead for sellers in 2025. If you've been thinking about selling your home, now might be the time to start preparing.
+Experts predict that 2025 will be a better year overall for sellers than 2023 and 2024. While the market has been challenging recently, there’s good news ahead for sellers in 2025. If you’ve been thinking about selling your home, now might be the time to start preparing.
 
 {% include pullquote.html %}
 
@@ -30,4 +30,4 @@ For buyers, if you’re hoping for interest rates to drop, the forecast isn’t 
 
 What does this mean for sellers? If you’re thinking about selling in 2025, it’s expected to be a much better year than the last two. While homes are sitting on the market right now, there’s optimism for 2025. As interest rates drop, competition will increase, and buyers will start entering the market. The longer you wait, the more competition you’ll face, so it’s wise to act sooner rather than later.
 
-If you're ready to sell, now is the time to get ahead of the market before the buyers flood in. Contact me at **(763) 323-6236** or email me at [mark@markcallenderhomes.com](mailto:mark@markcallenderhomes.com). Let’s make 2025 a successful year for you!
+If you’re ready to sell, now is the time to get ahead of the market before the buyers flood in. Contact me at **(763) 323-6236** or email me at [mark@markcallenderhomes.com](mailto:mark@markcallenderhomes.com). Let’s make 2025 a successful year for you!
