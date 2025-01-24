@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Next for Home Prices and Interest Rates in 2025?
-date: 2025-01-24 00:00:00
+date: 2025-01-23 00:00:00
 tags:
 excerpt: Learn what experts are saying about interest rates and home prices in 2025.
 enclosure:
