@@ -28,7 +28,7 @@ Not every insurance company is doing this, but the major ones are. So, **if you�
 
 {% include pullquote.html %}
 
-**Why does this matter?** Buyers need proof of insurance or an insurance binder from their insurance company before closing on a home. If they can't get that insurance, it could delay the closing, or worse, they might not be able to close at all. This has happened with many buyers and sellers in the past few months, and it’s a serious issue.
+**Why does this matter?** Buyers need proof of insurance or an insurance binder from their insurance company before closing on a home. If they can’t get that insurance, it could delay the closing, or worse, they might not be able to close at all. This has happened with many buyers and sellers in the past few months, and it’s a serious issue.
 
 If you have any questions or need advice, don’t hesitate to reach out to me at [(612) 961-9448](tel:6129619448) or [Mark@MarkCallenderHomes.com](mailto:Mark@MarkCallenderHomes.com).
 
