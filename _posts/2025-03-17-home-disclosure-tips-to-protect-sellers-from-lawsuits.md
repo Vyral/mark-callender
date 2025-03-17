@@ -22,9 +22,9 @@ youtube_code: S6Dm6xZ2Jp8
 
 If you want to stay out of court when selling your home, I will share tips that may save you from potential lawsuits and thousands worth of legal fees. If you’re trying to sell your home, one thing you want to do is **be honest in your home disclosures**, especially when filling out the seller disclosure statement.
 
-**What is the seller disclosure statement?** It’s a document where you answer the buyer's questions about your home. As the seller, you fill it out, and the buyer signs it, believing everything you wrote is the truth about the house.
+**What is the seller disclosure statement?** It’s a document where you answer the buyer’s questions about your home. As the seller, you fill it out, and the buyer signs it, believing everything you wrote is the truth about the house.
 
-These are important details about the property or any past incidents. For example, you might be asked if your home has a water softener, and you should answer truthfully based on the situation. Questions like these are included in the ten pages of disclosures that sellers are required to complete, which helps potential buyers understand the property's condition and history.
+These are important details about the property or any past incidents. For example, you might be asked if your home has a water softener, and you should answer truthfully based on the situation. Questions like these are included in the ten pages of disclosures that sellers are required to complete, which helps potential buyers understand the property’s condition and history.
 
 **What should you disclose to homebuyers?** You want to fill it out truthfully. Remember, as a seller, you can only disclose what you know. There’s no guessing on the disclosures.
 
